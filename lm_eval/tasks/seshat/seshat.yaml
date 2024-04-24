@@ -1,0 +1,10 @@
+task: seshat
+dataset_path: parquet
+dataset_name: null
+dataset_kwargs:
+    data_files: /home/scrappy/csh/Hapi/data/prompts/extract_fact/present_absent.parquet
+training_split: null
+validation_split: null
+test_split: null
+doc_to_text: Q
+doc_to_target: A
