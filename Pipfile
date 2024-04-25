@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 numpy = "*"
 lm-eval = {file = ".", editable = true}
+llama-cpp-python = "*"
+bitsandbytes = "*"
+accelerate = "*"
 
 [dev-packages]
 
