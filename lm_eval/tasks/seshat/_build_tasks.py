@@ -51,7 +51,8 @@ if __name__ == "__main__":
                 "doc_to_text": "Q",
                 "doc_to_target": "A",
                 "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
-                "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
+                # "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
+                "group" : [row[macro_reg_index], row[id_index]]
                 }
             task_set.add(row[macro_reg_index])
             task_set.add(row[reg_index])
