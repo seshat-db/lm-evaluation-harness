@@ -1,0 +1,828 @@
+macro_region|home_seshat_region|polity_new_id|polity_old_id|polity_long_name|start_year|end_year|home_nga|G|SC|WF|RT|HS|CC|PT|polity_tag|shapefile_name
+Southwest Asia|Mesopotamia|iq_abbasid_cal_1|IqAbbs1|Abbasid Caliphate I|750|946|Southern Mesopotamia|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_abbasid_cal_2|IqAbbs2|Abbasid Caliphate II|1191|1258|Southern Mesopotamia|True|True|True|False|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_achaemenid_emp|IrAchae|Achaemenid Empire|-550|-331|Susiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|East Africa|so_adal_sultanate|so_adal_sultanate|Adal Sultanate|1375|1543||True|True|False|True|False|False|True|NEW East African Polities|
+Africa|East Africa|so_ajuran_sultanate|so_ajuran_sultanate|Ajuran Sultanate|1250|1700||True|True|False|False|False|False|False|NEW East African Polities|
+Southwest Asia|Iran|ir_ak_koyunlu|IrAkkoy|Ak Koyunlu|1378|1501||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_ak_koynlu|IrAkKoy|Ak Koyunlu|1339|1501|Susiana|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|West Africa|gh_akan|GhAshnE|Akan - Pre-Ashanti|1501|1701|Ghanaian Coast|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_akkad_emp|IqAkkad|Akkadian Empire|-2270|-2083|Southern Mesopotamia|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Maghreb|mo_alawi_dyn_1|mo_alawi_dyn_1|Alaouite Dynasty I|1631|1727||True|True|False|False|False|True|False|Equinox 2020 Polities|
+Africa|Maghreb|mo_alawi_dyn_2|mo_alawi_dyn_2|Alawi Dynasty|1728|1912||False|False|False|False|False|True|False|Equinox 2020 Polities|
+Africa|West Africa|ni_allada_k|ni_allada_k|Allada|1100|1724||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|Maghreb|ma_almohad_emp|MaAlmoh|Almohad Empire|1123|1248||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Maghreb|ma_almoravid_dyn|MaAlmor|Almoravids|1035|1150||False|False|False|True|False|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|sd_alodia|SdAlodia|Alodia Kingdom|600|1504||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_babylonia_1|IqBabAm|Amorite Babylonia|-2000|-1600|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|uz_khwarasm_1|UzKhw01|Ancient Khwarazm|-1000|-521|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|kz_andronovo|KzAndro|Andronovo|-1800|-1200|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Western Europe|gb_anglo_saxon_1|gb_anglo_saxon|Anglo-Saxon England I|410|926||True|True|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Western Europe|gb_anglo_saxon_2|gb_england_k|Anglo-Saxon England II|927|1065||True|True|False|False|False|True|False|Equinox 2020 Polities|
+North America|East Coast|us_antebellum|us_antebellum|Antebellum US|1776|1865||True|True|False|False|False|True|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|sl_anuradhapura_1|sl_anuradhapura_1|Anurādhapura I|-300|70||True|True|False|True|False|False|True|NEW South East Indian Polities|
+South Asia|Southern South Asia|sl_anuradhapura_2|sl_anuradhapura_2|Anurādhapura II|70|428||True|True|False|True|False|False|True|NEW South East Indian Polities|
+South Asia|Southern South Asia|sl_anuradhapura_3|sl_anuradhapura_3|Anurādhapura III|428|614||True|True|False|True|False|False|True|NEW South East Indian Polities|
+South Asia|Southern South Asia|sl_anuradhapura_4|sl_anuradhapura_4|Anurādhapura IV|614|1017||True|True|False|True|False|False|False|NEW South East Indian Polities|
+Europe|Southern Europe|es_aragon_k|EsAragn|Aragon Kingdom|1035|1163||False|False|False|False|False|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_basin_of_mexico_1|MxArch*|Archaic Basin of Mexico|-6000|-2001|Basin of Mexico|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_archaic|GrCrArc|Archaic Crete|-710|-500|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South America and Caribbean|Southern South America|ar_argentina_rep_1|ar_argentina_rep_1|Argentine Republic I|1816|1983||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Anatolia-Caucasus|am_artaxiad_dyn|AmArtax|Armenian Kingdom|-188|6||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Africa|West Africa|ni_aro|ni_aro|Aro|1690|1902||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|gh_ashanti_emp|GhAshnL|Ashanti Empire|1701|1895|Ghanaian Coast|True|True|True|True|True|True|True|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_ashikaga|JpAshik|Ashikaga Shogunate|1336|1467|Kansai|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Central and Northern Eurasia|Pontic-Caspian|ru_astrakhan_khanate|RuAstrakh|Astrakhan Khanate|1466|1556||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_asuka|JpAsuka|Asuka|538|710|Kansai|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Western Europe|fr_atlantic_complex|FrAtlBA|Atlantic Complex|-2200|-1000|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_atropatene_k|IrAtrop|Atropatene Kingdom|-323|200||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Oceania-Australia|Australia|as_australia_colonial|as_australia_colonial|Australia Colonial Period|1803|1901||False|False|False|False|False|False|False|Other Polities|
+Europe|Central Europe|at_habsburg_1|at_habsburg_1|Austria - Habsburg Dynasty I|1454|1648||True|True|False|False|False|True|True|Other Polities|
+Europe|Central Europe|at_habsburg_2|at_habsburg_2|Austria - Habsburg Dynasty II|1649|1918||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Central Europe|at_austro_hungarian_emp|at_austro_hungarian_emp|Austro-Hungarian Monarchy|1867|1918||True|True|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|mm_ava_k|MmAva|Ava Kingdom|1364|1527||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Central Europe|hu_avar_khaganate|HuAvarK|Avar Khaganate|586|822||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_aksum_emp_1|EtAksm1|Axum I|-149|349|Yemeni Coastal Plain|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_aksum_emp_2|EtAksm2|Axum II|350|599||False|False|False|True|True|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_aksum_emp_3|EtAksm3|Axum III|600|800||False|False|False|True|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|th_ayutthaya|ThAyuth|Ayutthaya|1593|1767|Cambodian Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_ayyubid_sultanate|EgAyyub|Ayyubid Sultanate|1171|1250|Upper Egypt|True|True|True|True|True|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_aztec_emp|MxAztec|Aztec Empire|1427|1526|Basin of Mexico|True|True|True|True|False|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_badarian|EgBadar|Badarian|-4400|-3800|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|mm_bagan|MmPagan|Bagan|1044|1287||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Somewhere|in_bahmani_sultanate|InBahma|Bahmani Sultanate|1347|1518||False|False|False|True|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|kr_balhae_k|KrBalha|Balhae Kingdom|698|926||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ml_bamana_k|MlBaman|Bamana kingdom|1712|1861|Niger Inland Delta|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Europe|Southeastern Europe|ba_bosnia_banate|ba_bosnia_banate|Banate of Bosnia|1154|1376||False|False|False|False|False|False|False|Other Polities|Banate of Bosnia
+Africa|Maghreb|ib_banu_ghaniya|IbBnGhn|Banu Ghaniya|1126|1227||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_bazi_dyn|IqBazi*|Bazi Dynasty|-1005|-986|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_beaker_eba|FrBeakr|Beaker Culture|-3200|-2000|Paris Basin|True|True|True|False|True|False|False|Equinox 2020 Polities|
+South Asia|Eastern India|bd_bengal_sultanate|BdBengl|Bengal Sultanate|1338|1538||False|False|False|True|False|False|True|Equinox 2020 Polities|
+Africa|West Africa|ni_benin_emp|ni_benin_emp|Benin Empire|1140|1897||True|True|False|True|False|False|False|NEW West African Polities|
+Southwest Asia|Anatolia-Caucasus|tr_candar_bey|tr_candar_bey|Beylik of Candar|1291|1461||True|False|False|False|False|False|False|Other Polities|Beylik of Isfendiyar
+Southwest Asia|Anatolia-Caucasus|tr_karaman_bey|tr_karaman_bey|Beylik of Karaman|1250|1487||False|False|False|False|False|False|False|Other Polities|Beylik of Karaman
+South Asia|Somewhere|in_bijapur_sultanate|InBijap|Bijapur Sultanate|1470|1686||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Central Africa|ug_bunyoro_k_2|UgBito|Bito Dynasty|1700|1894||False|False|False|True|False|False|True|Equinox 2020 Polities|
+Africa|Sahel|td_bornu_emp|TdBornu|Bornu Empire|1380|1846||False|False|False|True|False|False|False|Equinox 2020 Polities|
+Europe|Central Europe|de_hohenzollern_2|de_brandenburg_2|Brandenburg-Prussia|1618|1870||True|False|False|False|False|False|True|Other Polities|
+South Asia|Eastern India|in_east_india_co|BdEastIndiaCompany|British East India Company|1757|1858||False|False|False|True|True|False|True|Other Polities|
+Europe|Western Europe|gb_british_emp_1|gb_british_emp_1|British Empire I|1690|1849|Deccan|True|True|False|True|False|False|True|Equinox 2020 Polities|
+Europe|Western Europe|gb_british_emp_2|GbEmpr2|British Empire II|1850|1968|Deccan|True|True|True|True|False|True|True|Equinox 2020 Polities|
+Europe|Western Europe|gb_british_emp_222222|gb_british_emp_222222|British Empire IIIIIIIIII|1850|1968||True|True|False|False|False|False|False|Other Polities|
+Southeast Asia|Mainland|kh_cambodia_ba|KhMekBA|Bronze Age Cambodia|-1200|-501|Cambodian Basin|True|True|True|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|kh_cambodia_ia|KhMekIA|Bronze Age Cambodia|-500|224|Cambodian Basin|True|True|True|False|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|gb_brythonic_k|gb_brythonic_k|Brythonic Kingdoms|410|1283||False|False|False|False|False|False|False|Other Polities|Brythons, Kingdom of Gwynedd, Kingdom of Powys, Kingdom of Brycheiniog, Kingdom of Gwent, Kingdom of Morgannwg, Kingdom of Rheged, Dumnonia, Strathclyde, Cornwall, Kingdom of Seisyllwg
+Africa|East Africa|ug_buganda_k_1|Early Buganda copy|Buganda|1450|1699||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|East Africa|ug_buganda_k_2|Classical Buganda|Buganda|1700|1894||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|East Africa|rw_bugesera_k|Bugesera|Bugesera|1700|1799||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|East Africa|tz_buhayo_k|Buhaya|Buhaya|-10000|2000||True|True|False|True|False|False|False|NEW East African Polities|
+Europe|Southeastern Europe|bg_bulgaria_early|BgErBlg|Bulgaria - Early|681|864||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|bg_bulgaria_medieval|BgMdBlg|Bulgaria - Middle|865|1018||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|bu_burundi_k|Burundi|Burundi|1680|1903||True|True|False|True|False|False|False|NEW East African Polities|
+Southwest Asia|Iran|ir_buyid_confederation|IrBuyid|Buyid Confederation|932|1062|Susiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_byzantine_emp_1|TrByzM1|Byzantine Empire I|632|866|Konya Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_byzantine_emp_2|TrByzM2|Byzantine Empire II|867|1072|Konya Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_byzantine_emp_3|TrByzM3|Byzantine Empire III|1073|1204|Crete|True|True|True|True|True|False|True|Equinox 2020 Polities|
+North America|Mississippi Basin|us_woodland_1|USMisEW|Cahokia - Early Woodland|-600|-150|Cahokia|True|True|True|False|True|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_emergent_mississippian_1|USMisSp|Cahokia - Emergent Mississippian I|750|900|Cahokia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_emergent_mississippian_2|USMisME|Cahokia - Emergent Mississippian II|900|1049|Cahokia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_woodland_3|USMisRo|Cahokia - Late Woodland I|300|450|Cahokia|True|True|True|False|True|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_woodland_4|USMisMu|Cahokia - Late Woodland II|450|600|Cahokia|True|True|True|False|True|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_woodland_5|USMisPa|Cahokia - Late Woodland III|600|750|Cahokia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_cahokia_1|USCahoE|Cahokia - Lohman-Stirling|1055|1199|Cahokia|True|True|True|True|True|True|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_woodland_2|USMisMW|Cahokia - Middle Woodland|-150|300|Cahokia|True|True|True|False|True|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_cahokia_2|USCahoL|Cahokia - Moorehead|1200|1274|Cahokia|True|True|True|True|True|True|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_cahokia_3|USMisSd|Cahokia - Sand Prairie|1275|1400|Cahokia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Levant|il_canaan|IlCanaa|Canaan|-2000|-1175|Galilee|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_carnatic_sul|in_carnatic_sul|Carnatic Sultanate|1710|1801||True|True|False|True|False|False|True|NEW South East Indian Polities|
+Europe|Western Europe|fr_carolingian_emp_1|FrCarlE|Carolingian Empire I|752|840|Paris Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Western Europe|fr_carolingian_emp_2|FrCarlL|Carolingian Empire II|840|987|Paris Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Maghreb|tn_carthage_emp|TnCarth|Carthage Empire|-814|-146||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|es_castile_k|EsCastil|Castile Kingdom|1065|1230||False|False|False|False|False|False|False|Equinox 2020 Polities|
+North America|Western North America|us_chaco_bonito_2|us_chaco_bonito_2|Chaco Canyon - Classic Bonito phase|1041|1100||False|False|False|False|False|False|False|Other Polities|
+North America|Western North America|us_chaco_bonito_1|us_chaco_bonito_1|Chaco Canyon - Early Bonito phase|850|1040||False|False|False|False|False|False|False|Other Polities|
+North America|Western North America|us_chaco_bonito_3|us_chaco_bonito_3|Chaco Canyon - Late Bonito phase|1101|1140||True|True|False|False|False|True|False|Equinox 2020 Polities|
+North America|Western North America|us_chaco_mcelmo|us_chaco_mcelmo|Chaco Canyon - McElmo phase|1141|1200||False|False|False|False|False|True|False|Equinox 2020 Polities|
+North America|Western North America|us_chaco_mesa_verde|us_chaco_mesa_verde|Chaco Canyon - Mesa Verde phase|1201|1300||False|False|False|False|False|False|False|Other Polities|
+Central and Northern Eurasia|Turkestan|uz_chagatai_khanate|UzChagt|Chagatai Khanate|1263|1402|Sogdiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_ganga_ca|InGangC|Chalcolithic Middle Ganga|-3000|-601|Middle Ganga|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_badami_chalukya_emp|InChaBd|Chalukyas of Badami|543|753|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_kalyani_chalukya_emp|InChaKl|Chalukyas of Kalyani|973|1191|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_chandela_k|InChandel|Chandela Kingdom|950|1308||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Eastern India|bd_chandra_dyn|BdChandra|Chandra Dynasty|900|1050||False|False|False|True|False|False|True|Other Polities|
+South Asia|North India|in_chauhana_dyn|InChauh|Chauhana Dynasty|973|1192||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|kh_chenla|KhChenl|Chenla|550|825|Cambodian Basin|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|kz_chionite|KzChion|Chionites|300|388||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Somewhere|in_chola_emp|InChol*|Chola Empire|849|1280||False|False|False|True|False|False|True|Equinox 2020 Polities|
+East Asia|South China|cn_chu_dyn_spring_and_autumn|CnChuSA|Chu Kingdom - Spring Autumn Period|-740|-489||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|South China|cn_chu_k_warring_states|CnChuWS|Chu Kingdom - Warring States Period|-488|-223|Middle Yellow River Valley|False|False|False|False|False|False|False|Equinox 2020 Polities|
+Oceania-Australia|Polynesia|fm_truk_1|FmTrukE|Chuuk - Early Truk|1775|1886|Chuuk Islands|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Oceania-Australia|Polynesia|fm_truk_2|FmTrukL|Chuuk - Late Truk|1886|1948|Chuuk Islands|True|True|True|True|False|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_basin_of_mexico_7|MxClass|Classic Basin of Mexico|100|649|Basin of Mexico|True|True|True|True|False|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_maya_classic|mx_maya_classic|Classic Maya|550|950||False|False|False|False|False|True|False|Equinox 2020 Polities|
+Africa|East Africa|tz_tana|tz_tana|Classic Tana|1100|1498||False|False|False|True|False|False|True|NEW East African Polities|
+Southeast Asia|Mainland|kh_angkor_2|KhAngkC|Classical Angkor|1100|1220|Cambodian Basin|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_classical|GrCrCls|Classical Crete|-500|-323|Crete|True|True|True|False|True|True|False|Equinox 2020 Polities|
+Africa|West Africa|ni_yoruba_classic|ni_yoruba_classic|Classical Ife|1000|1400||True|True|False|True|False|False|False|NEW West African Polities|
+Europe|Southern Europe|es_cordoba_cal|EsCordo|Cordoba Caliphate|929|1031||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Pontic-Caspian|ru_crimean_khanate|RuCrKha|Crimean Khanate|1440|1783||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|es_aragon_crown|es_aragon_crown|Crown of Aragon|1164|1515||True|False|False|False|False|False|False|Other Polities|
+Europe|Southern Europe|es_castile_crown|es_castile_crown|Crown of Castile|1231|1515||False|False|False|False|False|False|False|Other Polities|
+South America and Caribbean|Andes|pe_cuzco_2|PeCuzE1|Cuzco - Early Intermediate I|200|499|Cuzco|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South America and Caribbean|Andes|pe_cuzco_3|PeCuzE2|Cuzco - Early Intermediate II|500|649|Cuzco|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South America and Caribbean|Andes|pe_cuzco_1|PeCuzLF|Cuzco - Late Formative|-500|200|Cuzco|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South America and Caribbean|Andes|pe_cuzco_5|PeCuzL1|Cuzco - Late Intermediate I|1000|1250|Cuzco|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South America and Caribbean|Andes|pe_cuzco_6|PeCuzL2|Cuzco - Late Intermediate II|1250|1400|Cuzco|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Central Africa|ug_bunyoro_k_1|UgCwezi|Cwezi Dynasty|1450|1699||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Central Europe|cz_czech_rep|cz_czech_rep|Czech Republic|1993|2020||False|False|False|False|False|False|False|Other Polities|Czech Republic
+Europe|Central Europe|cz_czechoslovakia|cz_czechoslovakia|Czechoslovakia|1919|1992||False|False|False|False|False|False|False|Other Polities|Czechoslovakia
+Southeast Asia|Mainland|cn_dali_k|CnDali|Dali Kingdom|937|1253||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|sl_dambadeniya|sl_dambadeniya|Dambadaneiya|1232|1293||True|True|False|True|False|False|True|NEW South East Indian Polities|
+Europe|Western Europe|gb_danelaw|gb_danelaw|Danelaw|878|954||False|False|False|False|False|False|False|Other Polities|Viking City-States
+Europe|Northern Europe|dk_danish_emp_modern|dk_danish_emp_modern|Danish Empire|1816|1940||False|False|False|False|False|False|False|Other Polities|
+South Asia|Central India|in_deccan_ia|InDecIA|Deccan - Iron Age|-1200|-300|Deccan|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_deccan_nl|InDecNL|Deccan - Neolithic|-2700|-1200|Deccan|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_delhi_sultanate|InDelh*|Delhi Sultanate|1206|1526|Kachi Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+East Asia|Northeast Asia|ko_korean_democratic_peoples_rep|ko_korean_democratic_peoples_rep|Democratic People's Republic of Korea|1948|2020||False|False|False|False|False|False|False|Other Polities|
+Southeast Asia|Mainland|vt_vietnam_democratic_rep|vt_vietnam_democratic_rep|Democratic Republic of Vietnam|1954|1975||False|False|False|False|False|False|False|Other Polities|
+Africa|Central Africa|cg_congo_democratic_rep|cg_congo_democratic_rep|Democratic Republic of the Congo|1960|2020||False|False|False|False|False|False|False|Other Polities|
+Africa|West Africa|se_great_fulo_emp|se_great_fulo_emp|Denyanke Kingdom|1490|1776||True|True|False|True|False|False|True|NEW West African Polities|
+Europe|Southeastern Europe|gr_epirus_despot|gr_epirus_despot|Despotate of Epirus|1205|1479||False|False|False|False|False|False|False|Other Polities|Despotate of Epirus
+South Asia|Eastern India|bd_deva_dyn|BdDeva|Deva Dynasty|-10000|2000||False|False|False|True|False|False|True|Other Polities|
+North America|East Coast|ca_canada_dominion|ca_canada_dominion|Dominion of Canada|1867|2020||False|False|False|False|False|False|False|Other Polities|
+Europe|Southeastern Europe|hr_croatia_k|hr_croatia_k|Duchy and Kingdom of Croatia|790|1102||False|False|False|False|False|False|False|Other Polities|Duchy of Croatia, Kingdom of Croatia
+Europe|Western Europe|fr_aquitaine_duc_1|FrAquit|Duchy of Aquitaine I|602|768||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_aquitania_duc_2|fr_aquitania_duc_2|Duchy of Aquitaine II|893|1137||False|False|False|False|False|False|False|Other Polities|Duchy of Aquitaine
+Europe|Southern Europe|it_milan_duc_1|it_milan_duc_1|Duchy of Milan I|1395|1498||False|False|False|False|False|False|False|Other Polities|Duchy of Milan
+Europe|Southern Europe|it_milan_duc_2|it_milan_duc_2|Duchy of Milan II|1499|1796||False|False|False|False|False|False|False|Other Polities|Duchy of Milan
+Central and Northern Eurasia|Afghanistan|af_durrani_emp|AfDurrn|Durrani Empire|1747|1826|Kachi Plain|True|True|True|True|True|False|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|nl_dutch_emp_1|nl_dutch_emp_1|Dutch Empire|1648|1795||True|True|False|False|False|False|False|NEW South East Indian Polities|
+Southwest Asia|Mesopotamia|iq_dynasty_e|IqDynE*|Dynasty of E|-979|-732|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|gb_dal_riata|gb_dal_riata|Dál Riata|498|899||False|False|False|False|False|False|False|Other Polities|Dál Riata
+Southeast Asia|Mainland|kh_angkor_1|KhAngkE|Early Angkor|802|1100|Cambodian Basin|True|True|True|True|True|False|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_cholas_1|in_cholas_1|Early Cholas|-600|300||True|True|False|True|False|False|True|NEW South East Indian Polities|
+North America|Mexico|gt_tikal_early_classic|gt_tikal_early_classic|Early Classic Tikal|250|554||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_early_dynastic|IqEDyn*|Early Dynastic|-2900|-2500|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|tz_east_africa_ia_1|tz_east_africa_ia_1|Early East Africa Iron Age|200|499||False|False|False|True|False|False|False|Other Polities|
+North America|Mexico|mx_basin_of_mexico_3|MxFormE|Early Formative Basin of Mexico|-1200|-801|Basin of Mexico|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South Asia|Eastern India|in_achik_1|InGaroE|Early Garo|1775|1867|Garo Hills|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South America and Caribbean|Caribbean|pa_cocle_1|PaCocl1|Early Greater Coclé|200|700||False|False|False|False|False|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_early_illinois_confederation|USIllin|Early Illinois Confederation|1640|1717|Cahokia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Southern Africa|mw_early_maravi|mw_early_maravi|Early Maravi|1400|1499||False|False|False|True|False|False|False|Other Polities|
+Europe|Western Europe|fr_merovingian_emp_1|FrMervE|Early Merovingian|481|543|Paris Basin|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|West Africa|si_early_modern_interior|si_early_modern_interior|Early Modern Sierra Leone|1650|1896||True|True|False|True|False|False|False|NEW West African Polities|
+Central and Northern Eurasia|Mongolia|mn_mongol_early|MnMongE|Early Mongols|1000|1206|Orkhon Valley|True|True|True|False|True|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_1_early|MxAlb1E|Early Monte Alban I|-500|-300|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Central Africa|ug_early_nyoro|UgEarlyNyoro|Early Nyoro|900|1449||False|False|False|True|False|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_pandya_emp_1|in_pandya_emp_1|Early Pandyas|-600|300||True|True|False|True|False|False|True|NEW South East Indian Polities|
+North America|Mexico|gt_tikal_early_postclassic|gt_tikal_early_postclassic|Early Postclassic Tikal|951|1250||False|False|False|False|False|False|False|Other Polities|
+East Asia|North China|cn_qing_dyn_1|CnQingE|Early Qing|1644|1796|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_roman_rep_1|ItRomER|Early Roman Republic|-509|-264|Latium|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|East Africa|et_aussa_sultanate|et_aussa_sultanate|Early Sultanate of Aussa|1734|1895||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|East Africa|tz_early_tana_1|tz_early_tana_1|Early Tana 1|500|749||False|False|False|True|False|False|False|Other Polities|
+Africa|East Africa|tz_early_tana_2|tz_early_tana_2|Early Tana 2|750|1099||False|False|False|True|False|False|False|Other Polities|
+South America and Caribbean|Andes|bo_tiwanaku_1|bo_tiwanaku_1|Early Tiwanaku|500|799||False|False|False|False|False|False|False|Other Polities|
+North America|Mexico|mx_mexico_1|mx_mexico_1|Early United Mexican States|1810|1920||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Africa|West Africa|mr_wagadu_1|MrWagdE|Early Wagadu Empire|250|700||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_wei_dyn_warring_states|CnWeiWS|Early Wei Dynasty|-445|-225|Middle Yellow River Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_hunnu_early|MnXngnE|Early Xiongnu|-1400|-300|Orkhon Valley|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Central Europe|de_east_francia|de_east_francia|East Francia|842|919||True|False|False|False|False|False|True|Other Polities|
+Southwest Asia|Anatolia-Caucasus|tr_east_roman_emp|TrERom*|East Roman Empire|395|631|Konya Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+East Asia|North China|cn_eastern_han_dyn|CnEHan*|Eastern Han Empire|25|220|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+East Asia|North China|cn_eastern_jin_dyn|cn_eastern_jin_dyn|Eastern Jin Dynasty|317|420||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_turk_khaganate_1|MnETurk|Eastern Turk Khaganate|583|630|Orkhon Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+East Asia|North China|cn_eastern_zhou_warring_states|CnZhuWS|Eastern Zhou|-475|-256||False|False|False|False|False|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_old_k_1|EgOldK1|Egypt - Classic Old Kingdom|-2650|-2350|Upper Egypt|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_naqada_3|EgNaqa3|Egypt - Dynasty 0|-3300|-3100|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_dynasty_1|EgDyn1*|Egypt - Dynasty I|-3100|-2900|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_dynasty_2|EgDyn2*|Egypt - Dynasty II|-2900|-2687|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_inter_occupation|EgIntOc|Egypt - Inter-Occupation Period|-404|-342|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_kushite|SdKusht|Egypt - Kushite Period|-747|-656|Upper Egypt|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_old_k_2|EgOldK2|Egypt - Late Old Kingdom|-2350|-2150|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_mamluk_sultanate_1|EgMamBh|Egypt - Mamluk Sultanate I|1260|1348|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_mamluk_sultanate_2|EgMamCP|Egypt - Mamluk Sultanate II|1348|1412|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_mamluk_sultanate_3|EgMamBu|Egypt - Mamluk Sultanate III|1412|1517|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_middle_k|EgMidKg|Egypt - Middle Kingdom|-2016|-1700|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_new_k_2|EgNKRam|Egypt - New Kingdom Ramesside Period|-1293|-1070|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_new_k_1|EgNKThu|Egypt - New Kingdom Thutmosid Period|-1550|-1293|Upper Egypt|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_regions|EgRegns|Egypt - Period of the Regions|-2150|-2016|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_saite|EgSaite|Egypt - Saite Period|-664|-525|Upper Egypt|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_thebes_hyksos|EgThebH|Egypt - Thebes-Hyksos Period|-1720|-1567|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_thebes_libyan|EgThebL|Egypt - Thebes-Libyan Period|-1069|-747|Upper Egypt|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_thulunid_ikhshidid|EgTulIk|Egypt - Tulunid-Ikhshidid Period|868|969|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_1|IrAwanE|Elam - Awan Dynasty I|-2675|-2100|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_8|IrElmCP|Elam - Crisis Period|-1100|-900|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_3|IrSukkE|Elam - Early Sukkalmah|-1900|-1701|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_6|IrMElm2|Elam - Igihalkid Period|-1399|-1200|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_5|IrMElm1|Elam - Kidinuid Period|-1500|-1400|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_4|IrSukkL|Elam - Late Sukkalmah|-1700|-1500|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_2|IrShima|Elam - Shimashki Period|-2028|-1940|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_elam_7|IrMElm3|Elam - Shutrukid Period|-1199|-1100|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_neo_elam_1|IrNElm1|Elam I|-900|-744|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_neo_elam_2|IrNElm2|Elam II|-743|-647|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_neo_elam_3|IrNElm3|Elam III|-612|-539|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Central Europe|de_bavaria_1|de_bavaria_1|Electorate of Bavaria|1623|1806||True|False|False|False|False|False|True|Other Polities|
+Europe|Central Europe|de_hohenzollern_1|de_brandenburg_1|Electorate of Brandenburg|1415|1618||True|False|False|False|False|False|True|Other Polities|
+Southwest Asia|Iran|ir_elymais_2|IrElym2|Elymais II|25|215|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|es_cordoba_emirate|es_cordoba_emirate|Emirate of Córdoba|756|928||False|False|False|False|False|False|False|Other Polities|Emirate of Córdoba
+Africa|East Africa|et_harar_emirate|et_harar_emirate|Emirate of Harar|1650|1875||True|True|False|True|False|False|True|NEW East African Polities|
+South America and Caribbean|Amazonia|br_brazil_emp|br_brazil_emp|Empire of Brazil|1822|1888||False|False|False|False|False|False|False|Other Polities|
+East Asia|Northeast Asia|jp_japanese_emp|jp_japanese_emp|Empire of Japan|1869|1945||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_trebizond_emp|tr_trebizond_emp|Empire of Trebizond|1204|1461||False|False|False|False|False|False|False|Other Polities|Empire of Trebizond
+North America|Mexico|mx_basin_of_mexico_8|MxEpicl|Epiclassic Basin of Mexico|650|899|Basin of Mexico|True|True|True|True|False|True|False|Equinox 2020 Polities|
+East Asia|North China|cn_erligang|CnErlig|Erligang|-1650|-1250|Middle Yellow River Valley|True|True|True|False|True|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_erlitou|CnErlit|Erlitou|-1850|-1600|Middle Yellow River Valley|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_ethiopian_k|EtEthiK|Ethiopia Kingdom|1270|1500||False|False|False|True|False|False|True|Equinox 2020 Polities|
+Africa|East Africa|et_ethiopian_k_2|et_ethiopian_k_2|Ethiopia Kingdom II|1621|1768||False|False|False|True|False|False|True|Other Polities|
+Africa|East Africa|et_ethiopian_k_3|et_ethiopian_k_3|Ethiopia Kingdom III|1769|1854||False|False|False|True|False|False|True|Other Polities|
+Europe|Southern Europe|it_ravenna_exarchate|ItRav**|Exarchate of Ravenna|568|751|Latium|True|True|True|False|True|False|True|Equinox 2020 Polities|
+Africa|Northeast Africa|tn_fatimid_cal|TnFatim|Fatimid Caliphate|909|1171|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_post_palace_2|GrCrFPa|Final Postpalatial Crete|-1200|-1000|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|East Africa|tz_milansi_k|Milansi|Fipa|1600|1890||True|True|False|True|False|False|False|NEW East African Polities|
+East Asia|North China|cn_five_dyn|Cn5Dyna|Five Dynasties Period|906|970||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susiana_formative|IrForma|Formative Period|-7200|-7000|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|ni_dahomey_k|ni_dahomey_k|Foys|1600|1892||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|si_freetown_1|si_freetown_1|Freetown|1787|1808||True|True|False|True|False|False|False|NEW West African Polities|
+Europe|Western Europe|fr_bourbon_k_1|FrBurbE|French Kingdom - Early Bourbon|1589|1660|Paris Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Western Europe|fr_valois_k_1|FrValoE|French Kingdom - Early Valois|1328|1450|Paris Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Western Europe|fr_bourbon_k_2|FrBurbL|French Kingdom - Late Bourbon|1660|1815|Paris Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Western Europe|fr_capetian_k_2|FrCaptL|French Kingdom - Late Capetian|1150|1328|Paris Basin|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Europe|Western Europe|fr_valois_k_2|FrValoL|French Kingdom - Late Valois|1450|1589|Paris Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southeast Asia|Mainland|kh_funan_1|KhFunaE|Funan I|225|540|Cambodian Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|kh_funan_2|KhFunaL|Funan II|540|640|Cambodian Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_funj_sultanate|et_funj_sultanate|Funj Sultanate|1504|1820||True|True|False|True|False|False|True|NEW East African Polities|
+Africa|West Africa|gu_futa_jallon|gu_futa_jallon|Futa Jallon|1725|1896||True|True|False|False|False|False|False|NEW West African Polities|
+South Asia|Southern South Asia|in_gahadavala_dyn|InGhdvl|Gahadavala Dynasty|1085|1193|Middle Ganga|True|True|True|True|False|False|True|Equinox 2020 Polities|
+Europe|Eastern Europe|ua_galicia_volhynia_principality|UaGalicia|Galicia-Volhynia Principality|1199|1349||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Somewhere|in_ganga_k|InGanga|Ganga Kingdom|1028|1435||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|North India|in_gangaridai|in_gangaridai|Gangaridai|-300|-100||False|False|False|True|False|False|False|Other Polities|
+South Asia|Eastern India|in_gauda_k|BdGauda|Gauda Kingdom|600|750||False|False|False|True|False|False|True|Other Polities|
+Europe|Southeastern Europe|gr_crete_geometric|GrCrGeo|Geometric Crete|-1000|-710|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Central Europe|de_hohenzollern_3|de_hohenzollern_3|Germany - Hohenzollern Dynasty|1871|1918||True|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Levant|jo_ghassanid_k|JoGhass|Ghassanid Kingdom|500|636||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Afghanistan|af_ghaznavid_emp|AfGhazn|Ghaznavid Empire|998|1040||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Afghanistan|af_ghur_principality|AfGhurd|Ghur Principality|1025|1215|Kachi Plain|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|East Africa|rw_gisaka_k|Gisaka|Gisaka|1700|1867||True|True|False|True|False|False|False|NEW East African Polities|
+East Asia|Northeast Asia|kr_goguryeo_k|KrGogur|Goguryeo Kingdom|-37|668||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Pontic-Caspian|ru_golden_horde|ru_golden_horde|Golden Horde|1240|1440||True|True|False|False|False|True|True|Equinox 2020 Polities|
+East Asia|Northeast Asia|kr_goryeo_k|KrGorye|Goryeo Kingdom|936|1258||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Central Europe|lt_lithuania_grand_duc|lt_lithuania_grand_duc|Grand Duchy of Lithuania|1220|1385||False|False|False|False|False|False|False|Other Polities|Grand Duchy of Lithuania
+Europe|Southern Europe|it_tuscany_grand_duc|it_tuscany_grand_duc|Grand Duchy of Tuscany|1569|1860||False|False|False|False|False|False|False|Other Polities|Republic of Florence
+Europe|Eastern Europe|ru_moskva_mongolian_period|ru_moskva_mongolian_period|Grand Principality of Moscow, Mongolian period|1240|1479||False|False|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Eastern Europe|ru_moskva_rurik_dyn|RuMoskva|Grand Principality of Moscow, Rurikid Dynasty|1480|1613||False|False|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Southeastern Europe|rs_serbia_k|rs_serbia_k|Grand Principality, Kingdom and Empire of Serbia|1091|1371||False|False|False|False|False|False|False|Other Polities|Grand Principality of Serbia, Kingdom of Serbia, Empire of Serbia
+East Asia|North China|cn_ming_dyn|CnMing*|Great Ming|1368|1644|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Central Europe|cz_moravia_k|cz_moravia_k|Great Moravia|820|907||False|False|False|False|False|False|False|Other Polities|
+East Asia|North China|cn_yuan_dyn|CnYuan*|Great Yuan|1271|1368|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Southern Africa|zi_great_zimbabwe|zi_great_zimbabwe|Great Zimbabwe|1270|1550||True|True|False|True|False|False|False|NEW Southern African Polities|
+Central and Northern Eurasia|Afghanistan|af_greco_bactrian_k|AfGrBct|Greco-Bactrian Kingdom|-256|-125|Sogdiana|True|True|True|True|True|True|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_gupta_emp|InGupta|Gupta Dynasty|320|515|Middle Ganga|True|True|True|True|False|False|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_gurjar|InGurjr|Gurjar|810|1030|Middle Ganga|True|True|True|False|False|False|True|Equinox 2020 Polities|
+South Asia|Somewhere|in_gurjara_pratihara_k|InGurPr|Gurjara-Pratihara Kingdom|550|850||False|False|False|True|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_habesha|et_habesha|Habesha|801|1136||False|False|False|True|False|False|False|Other Polities|
+Africa|East Africa|so_habr_yunis|so_habr_yunis|Habr Yunis|1300|1886||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|East Africa|et_hadiya_sultanate|et_hadiya_sultanate|Hadiya Sultanate|1300|1680||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|Maghreb|tn_hafsid_dyn|TnHafsid|Hafsid Dynasty|1227|1452||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_hallstatt_a_b1|FrHallA|Hallstatt A-B1|-1000|-900|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_hallstatt_b2_3|FrHallB|Hallstatt B2-3|-900|-700|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_hallstatt_c|FrHallC|Hallstatt C|-700|-600|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_hallstatt_d|FrHallD|Hallstatt D|-600|-475|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_harla_k|et_harla_k|Harla Kingdom|-10000|2000||True|True|False|True|False|False|False|NEW East African Polities|
+Southwest Asia|Anatolia-Caucasus|tr_hatti_new_k|TrHatNK|Hatti - New Kingdom|-1400|-1180|Konya Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_hatti_old_k|TrHatOK|Hatti - Old Kingdom|-1650|-1500|Konya Plain|True|True|True|True|True|True|False|Equinox 2020 Polities|
+North America|East Coast|us_haudenosaunee_1|UsIroqE|Haudenosaunee Confederacy - Early|1566|1713|Finger Lakes|True|True|True|True|True|True|False|Equinox 2020 Polities|
+North America|East Coast|us_haudenosaunee_2|UsIroqL|Haudenosaunee Confederacy - Late|1714|1848|Finger Lakes|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|West Africa|ni_hausa_k|ni_hausa_k|Hausa bakwai|900|1808||True|True|False|True|False|False|False|NEW West African Polities|
+Oceania-Australia|Polynesia|us_hawaii_1|Hawaii1|Hawaii I|1000|1200|Big Island Hawaii|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Oceania-Australia|Polynesia|us_hawaii_2|Hawaii2|Hawaii II|1200|1580|Big Island Hawaii|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Oceania-Australia|Polynesia|us_hawaii_3|Hawaii3|Hawaii III|1580|1778|Big Island Hawaii|True|True|True|True|True|False|True|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_heian|JpHeian|Heian|794|1185|Kansai|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_hellenistic|GrCrHel|Hellenistic Crete|-323|-69|Crete|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Afghanistan|af_hephthalite_emp|AfHepht|Hephthalites|408|561|Sogdiana|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_himyar_1|YeHmyr1|Himyar I|270|340|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_himyar_2|YeHmyr2|Himyar II|378|525|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|South China|cn_hmong_2|CnHChin|Hmong - Early Chinese|1895|1941|Southern China Hills|True|True|True|True|False|False|False|Equinox 2020 Polities|
+East Asia|South China|cn_hmong_1|CnHQngL|Hmong - Late Qing|1701|1895|Southern China Hills|True|True|True|True|True|True|False|Equinox 2020 Polities|
+North America|Western North America|us_hohokam_culture|us_hohokam_culture|Hohokam Culture|300|1500||True|True|False|False|False|True|False|Equinox 2020 Polities|
+Europe|Central Europe|de_empire_3|de_empire_3|Holy Roman Empire - Fragmented Period|1255|1453||True|False|False|False|False|True|True|Other Polities|
+Europe|Central Europe|de_empire_2_sub|de_empire_2_sub|Holy Roman Empire - Hohenstaufen Faction|1198|1215||True|False|False|False|False|True|True|Other Polities|
+Europe|Central Europe|de_empire_2|de_empire_2|Holy Roman Empire - Hohenstaufen and Welf Dynasties|1126|1254||True|True|False|False|False|True|True|Other Polities|
+Europe|Central Europe|de_empire_minor_1|de_empire_minor_1|Holy Roman Empire - Minor Imperial States I|1454|1648||False|False|False|False|False|False|False|Other Polities|Holy Roman Empire Minor States
+Europe|Central Europe|de_empire_minor_2|de_empire_minor_2|Holy Roman Empire - Minor Imperial States II|1649|1806||False|False|False|False|False|False|False|Other Polities|Holy Roman Empire Minor States
+Europe|Central Europe|de_empire_1|de_empire_1|Holy Roman Empire - Ottonian-Salian Dynasty|919|1125||True|True|False|False|False|True|True|Other Polities|
+South Asia|Central India|in_hoysala_k|InHoysa|Hoysala Kingdom|1108|1346|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Central Europe|hu_later_dyn|hu_later_dyn|Hungary Kingdom - Anjou and Later Dynasties|1302|1526||True|False|False|False|False|False|True|Other Polities|
+Europe|Central Europe|hu_arpad_dyn|hu_arpad_dyn|Hungary Kingdom - Árpád Dynasty|1000|1301||True|False|False|False|False|False|True|Other Polities|
+Southeast Asia|Archipelago|id_iban_2|IdBrokL|Iban - Brooke Raj and Colonial|1841|1987|Kapuasi Basin|True|True|True|True|False|True|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|id_iban_1|IdBrokE|Iban - Pre-Brooke|1650|1841|Kapuasi Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Northern Europe|is_icelandic_commonwealth|IsCommw|Icelandic Commonwealth|930|1262|Iceland|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|Maghreb|ma_idrisid_dyn|MaIdris|Idrisids|789|917||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|so_ifat_sultanate|so_ifat_sultanate|Ifat Sultanate|1280|1375||True|True|False|False|False|False|True|NEW East African Polities|
+Africa|West Africa|ni_igala_k|ni_igala_k|Igala|1600|1900||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|ni_igodomingodo|ni_igodomingodo|Igodomingodo|900|1450||True|True|False|True|False|False|False|NEW West African Polities|
+Southwest Asia|Iran|ir_il_khanate|IrIlkhn|Ilkhanate|1256|1339|Susiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|West Africa|ni_oyo_emp_2|ni_oyo_emp_2|Ilú-ọba Ọ̀yọ́|1601|1835||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|se_futa_toro_imamate|se_futa_toro_imamate|Imamate of Futa Toro|1776|1860||True|True|False|True|False|False|True|NEW West African Polities|
+Southwest Asia|Arabia|om_busaidi_imamate_1|om_busaidi_imamate_1|Imamate of Oman and Muscat|1749|1895||False|False|False|True|False|False|True|Other Polities|
+South America and Caribbean|Andes|pe_inca_emp|PeInca*|Inca Empire|1375|1532|Cuzco|True|True|True|True|True|True|True|Equinox 2020 Polities|
+South Asia|Pakistan|pk_indo_greek_k|PkIndGr|Indo-Greek Kingdom|-180|-10|Kachi Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_indo_parthian_k|PkIndPR|Indo-Parthian Kingdom|-12|100||False|False|False|False|False|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_basin_of_mexico_2|MxInitl|Initial Formative Basin of Mexico|-2000|-1201|Basin of Mexico|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Europe|Central Europe|at_interwar_austria|at_interwar_austria|Interwar Austria|1918|1938||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_pahlavi_dyn|ir_pahlavi_dyn|Iran Pahlavi Dynasty|1926|1979||False|False|False|False|False|False|False|Other Polities|
+Africa|East Africa|so_isaaq_sultanate|so_isaaq_sultanate|Isaaq Sultanate|1300|1886||True|True|False|False|False|False|False|NEW East African Polities|
+Southwest Asia|Mesopotamia|iq_isin_larsa|IqIsinL|Isin-Larsa|-2004|-1763|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_pakistan_islamic_rep|pk_pakistan_islamic_rep|Islamic Republic of Pakistan|1947|2020||False|False|False|False|False|False|False|Other Polities|
+Europe|Southern Europe|it_italy_k|ItRomLA|Italian Kingdom Late Antiquity|476|489||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_republic_restoration|it_republic_restoration|Italian Republic Restoration Period|1309|1378|Latium|False|False|False|False|False|False|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|sl_jaffa_k|sl_jaffa_k|Jaffna|1310|1591||True|True|False|True|False|False|True|NEW South East Indian Polities|
+East Asia|Northeast Asia|jp_japan_contemporary|jp_japan_contemporary|Japan|1952|2020||False|False|False|False|False|False|False|Other Polities|
+East Asia|Northeast Asia|jp_azuchi_momoyama|JpAzMom|Japan - Azuchi-Momoyama|1568|1603|Kansai|True|True|True|True|True|True|True|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_jomon_3|JpJomo3|Japan - Early Jomon|-5300|-3500|Kansai|True|True|True|False|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_jomon_6|JpJomo6|Japan - Final Jomon|-1200|-300|Kansai|True|True|True|True|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_jomon_1|JpJomo1|Japan - Incipient Jomon|-13600|-9200|Kansai|True|True|True|False|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_jomon_2|JpJomo2|Japan - Initial Jomon|-9200|-5300|Kansai|True|True|True|False|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_jomon_5|JpJomo5|Japan - Late Jomon|-2500|-1200|Kansai|True|True|True|False|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_jomon_4|JpJomo4|Japan - Middle Jomon|-3500|-2500|Kansai|True|True|True|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|id_buni|IdCJBun|Java - Buni Culture|-400|500|Central Java|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_jayarid_khanate|IrJalay|Jayarid Khanate|1336|1393||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ml_jenne_jeno_1|MlJeJe1|Jenne-jeno I|-250|49|Niger Inland Delta|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|ml_jenne_jeno_2|MlJeJe2|Jenne-jeno II|50|399|Niger Inland Delta|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|ml_jenne_jeno_3|MlJeJe3|Jenne-jeno III|400|899|Niger Inland Delta|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|ml_jenne_jeno_4|MlJeJe4|Jenne-jeno IV|900|1300|Niger Inland Delta|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|South China|cn_jin_spring_and_autumn|CnJinSA|Jin|-780|-404|Middle Yellow River Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+East Asia|North China|cn_later_great_jin|CnLrJin|Jin Dynasty|1115|1234|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|West Africa|se_jolof_emp|se_jolof_emp|Jolof Empire|1360|1549||True|True|False|True|False|False|False|NEW West African Polities|
+East Asia|Northeast Asia|kr_joseon|KrJoseon|Joseon Dynasty|1392|1567||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|gm_kaabu_emp|gm_kaabu_emp|Kaabu|1500|1867||True|True|False|True|False|False|False|NEW West African Polities|
+South Asia|Pakistan|pk_kachi_enl|PkAcerN|Kachi Plain - Aceramic Neolithic|-7500|-5500|Kachi Plain|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_kachi_lnl|PkCeraN|Kachi Plain - Ceramic Neolithic|-5500|-4000|Kachi Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_kachi_ca|PkChalc|Kachi Plain - Chalcolithic|-4000|-3200|Kachi Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_kachi_post_urban|PkPostU|Kachi Plain - Post-Urban Period|-1800|-1300|Kachi Plain|True|True|True|False|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_kachi_pre_urban|PkPreUr|Kachi Plain - Pre-Urban Period|-3200|-2500|Kachi Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_kachi_proto_historic|PkProto|Kachi Plain - Proto-Historic Period|-1300|-500|Kachi Plain|True|True|True|False|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_kachi_urban_1|PkUrbn1|Kachi Plain - Urban Period I|-2500|-2100|Kachi Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_kachi_urban_2|PkUrbn2|Kachi Plain - Urban Period II|-2100|1800|Kachi Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_kadamba_emp|InKadam|Kadamba Empire|345|550|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Eastern India|in_kakatiya_dyn|InKakat|Kakatiya Dynasty|1175|1324||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_kalabhra_dyn|in_kalabhra_dyn|Kalabhra Dynasty|200|600||True|True|False|True|False|False|False|NEW South East Indian Polities|
+South Asia|Somewhere|in_kalachuri_emp|InKalch|Kalachuri Empire|1157|1184||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|id_kalingga_k|IdKalin|Kalingga Kingdom|500|732|Central Java|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Europe|Northern Europe|sv_kalmar_union|SeKalma|Kalmar Union|1397|1523||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_kamakura|JpKamak|Kamakura Shogunate|1185|1333|Kansai|True|True|True|True|True|True|True|Equinox 2020 Polities|
+South Asia|Eastern India|in_kamarupa_k|InKamar|Kamarupa Kingdom|350|1130||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_kampili_k|InKampi|Kampili Kingdom|1280|1327|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_kanauj|InKanau|Kanauj|650|780|Middle Ganga|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|cd_kanem|cd_kanem|Kanem|800|1379||True|True|False|False|False|False|False|NEW West African Polities|
+Africa|Sahel|td_kanem|TdKanem|Kanem Empire|850|1380||False|False|False|True|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ni_bornu_emp|ni_bornu_emp|Kanem-Borno|1380|1893||True|True|False|False|False|False|False|NEW West African Polities|
+Central and Northern Eurasia|Turkestan|uz_kangju|UzKangj|Kangju|-150|350||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_kofun|JpKofun|Kansai - Kofun Period|250|537|Kansai|True|True|True|True|True|False|True|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_yayoi|JpYayoi|Kansai - Yayoi Period|-300|250|Kansai|True|True|True|True|True|True|True|Equinox 2020 Polities|
+South Asia|North India|in_kanva_dyn|in_kanva_dyn|Kanva Dynasty|75|300||False|False|False|True|False|False|False|Other Polities|
+Central and Northern Eurasia|Turkestan|tm_kara_khitai_khanate|TmKarKh|Kara Khitai Khanate|1137|1218||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|kg_kara_khanid_dyn|KgKarKh|Kara-Khanids|950|1212|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|East Africa|tz_karagwe_k|Karagwe|Karagwe|1500|1916||True|True|False|True|False|False|False|NEW East African Polities|
+South Asia|North India|in_karkota_dyn|InKarkt|Karkota Dynasty|625|1339||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|North India|in_kashmiri_sultanate|InKashm|Kashmiri Sultanate|1346|1580||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_babylonia_2|IqBabKs|Kassite Babylonia|-1595|-1150|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Pontic-Caspian|ru_kazan_khanate|RuKazan|Kazan Khanate|1438|1552||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|id_kediri_k|IdKedir|Kediri Kingdom|1049|1222|Central Java|True|True|True|True|True|True|False|Equinox 2020 Polities|
+South Asia|Eastern India|bd_khadga_dyn|bd_khadga_dyn|Khadga Dynasty|650|700||False|False|False|True|False|False|False|Other Polities|
+Central and Northern Eurasia|Turkestan|uz_janid_dyn|UzJanid|Khanate of Bukhara|1599|1747|Sogdiana|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Central and Northern Eurasia|Pontic-Caspian|ru_khazar_emp|RuKhazar|Khazar Empire|626|965||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_khitan_1|MnKhitn|Khitan I|907|1125|Orkhon Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|kh_khmer_k|KhCambd|Khmer Kingdom|1432|1594|Cambodian Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|tm_khwarezmid_emp|TmKhwrz|Khwarezmid Empire|1157|1231||True|True|False|False|False|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Afghanistan|af_kidarite_k|AfKidar|Kidarite Kingdom|388|477|Sogdiana|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Europe|Eastern Europe|ua_kievan_rus|UaKiev1|Kievan Rus|880|1242||False|False|False|False|False|True|True|Equinox 2020 Polities|
+Central and Northern Eurasia|Afghanistan|af_afghanistan_k|af_afghanistan_k|Kingdom of Afghanistan|1927|1973||False|False|False|False|False|False|False|Other Polities|
+Europe|Western Europe|gb_alba_k|gb_alba_k|Kingdom of Alba|900|1286||False|False|False|False|False|False|False|Other Polities|Kingdom of Alba
+Europe|Southern Europe|es_asturias_k|es_asturias_k|Kingdom of Asturias|718|924||False|False|False|False|False|False|False|Other Polities|Kingdom of Asturias
+South Asia|Southern South Asia|in_ayodhya_k|InAyodE|Kingdom of Ayodhya|-64|34|Middle Ganga|True|True|True|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|se_baol_k|se_baol_k|Kingdom of Baol|1550|1890||True|True|False|True|False|False|True|NEW West African Polities|
+Europe|Central Europe|cz_bohemian_k_2|cz_bohemian_k_2|Kingdom of Bohemia - Luxembourgian and Jagiellonian Dynasty|1310|1526||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Central Europe|cz_bohemian_k_1|cz_bohemian_k_1|Kingdom of Bohemia - Přemyslid Dynasty|1198|1309||True|False|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Southeastern Europe|ba_bosnia_k|ba_bosnia_k|Kingdom of Bosnia|1377|1463||False|False|False|False|False|False|False|Other Polities|Banate of Bosnia
+Africa|West Africa|se_cayor_k|se_cayor_k|Kingdom of Cayor|1549|1864||True|True|False|True|False|False|True|NEW West African Polities|
+Africa|Central Africa|ao_kongo_2|AoKngo2|Kingdom of Congo|1491|1568||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|cy_cyprus_k|cy_cyprus_k|Kingdom of Cyprus|1192|1489||False|False|False|False|False|False|False|Other Polities|Kingdom of Cyprus
+Europe|Southern Europe|es_galicia_k|es_galicia_k|Kingdom of Galicia|911|1111||False|False|False|False|False|False|False|Other Polities|Kingdom of Galicia
+Southwest Asia|Anatolia-Caucasus|ge_georgia_k_2|GeGeoK2|Kingdom of Georgia II|975|1243||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|ge_georgia_k_3|ge_georgia_k_3|Kingdom of Georgia III|1329|1463||False|False|False|False|False|False|False|Other Polities|Kingdom of Georgia
+Africa|East Africa|et_gomma_k|et_gomma_k|Kingdom of Gomma|1780|1886||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|East Africa|et_gumma_k|et_gumma_k|Kingdom of Gumma|1800|1897||True|True|False|True|False|False|False|NEW East African Polities|
+Oceania-Australia|Polynesia|us_kamehameha_k|USKameh|Kingdom of Hawaii - Kamehameha Period|1778|1819|Big Island Hawaii|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Oceania-Australia|Polynesia|us_hawaii_k|USHawai|Kingdom of Hawaii - Post-Kamehameha Period|1820|1898|Big Island Hawaii|True|True|False|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_italian_k|it_italian_k|Kingdom of Italy|1861|1946||False|False|False|False|False|False|False|Other Polities|
+Africa|East Africa|et_jimma_k|et_jimma_k|Kingdom of Jimma|1790|1932||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|West Africa|se_jolof_k|se_jolof_k|Kingdom of Jolof|1549|1865||True|True|False|False|False|False|True|NEW West African Polities|
+Africa|East Africa|et_kaffa_k|et_kaffa_k|Kingdom of Kaffa|1390|1897||True|True|False|True|False|False|True|NEW East African Polities|
+Africa|Central Africa|cg_lunda_k|cg_lunda_k|Kingdom of Lunda|1600|1895||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Anatolia-Caucasus|tr_lydia_k|TrLydia|Kingdom of Lydia|-670|-546|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_naples_k|it_naples_k|Kingdom of Naples|1282|1442||False|False|False|False|False|False|False|Other Polities|
+Africa|East Africa|Early Niynginya|Early Niynginya|Kingdom of Niynginya|1650|1897||True|True|False|False|False|False|False|NEW East African Polities|
+Europe|Northern Europe|no_norway_k_modern|no_norway_k_modern|Kingdom of Norway - Modern|1905|1940||False|False|False|False|False|False|False|Other Polities|
+Europe|Northern Europe|no_norway_k_1|no_norway_k_1|Kingdom of Norway I|872|1261||False|False|False|False|False|False|False|Other Polities|Old Kingdom of Norway
+Europe|Northern Europe|no_norway_k_2|NorKing|Kingdom of Norway II|1262|1380|Iceland|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|pt_portugal_k|pt_portugal_k|Kingdom of Portugal|1139|1494||False|False|False|False|False|False|False|Other Polities|Kingdom of Portugal
+Africa|Central Africa|rw_rwanda_k|rw_rwanda_k|Kingdom of Rwanda|1650|1897||False|False|False|True|False|False|False|Other Polities|
+Southwest Asia|Arabia|ye_saba_k|YeSaRay|Kingdom of Saba and Dhu Raydan|-110|149|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|se_saloum_k|se_saloum_k|Kingdom of Saloum|1490|1863||True|True|False|True|False|False|True|NEW West African Polities|
+Africa|West Africa|se_sine_k|se_sine_k|Kingdom of Sine|1350|1887||True|True|False|True|False|False|False|NEW West African Polities|
+Europe|Northern Europe|sv_sweden_k_modern|sv_sweden_k_modern|Kingdom of Sweden|1906|2020||False|False|False|False|False|False|False|Other Polities|
+Africa|West Africa|se_waalo_k|se_waalo_k|Kingdom of Waalo|1287|1855||True|True|False|True|False|False|True|NEW West African Polities|
+Europe|Western Europe|fr_burgundian_k|fr_burgundian_k|Kingdom of the Burgundians|411|534||False|False|False|False|False|False|False|Other Polities|Burgundian Kingdom
+Europe|Southeastern Europe|rs_gepid_k|rs_gepid_k|Kingdom of the Gepids|454|567||False|False|False|False|False|False|False|Other Polities|Kingdom of the Gepids
+Europe|Central Europe|hu_hun_k|HuKHuns|Kingdom of the Huns|376|469||True|True|False|False|False|True|False|Equinox 2020 Polities|
+Europe|Southern Europe|pt_suebi_k|pt_suebi_k|Kingdom of the Suebi|409|584||False|False|False|False|False|False|False|Other Polities|Kingdom of the Suebi
+Central and Northern Eurasia|Turkestan|uz_koktepe_1|UzKok01|Koktepe I|-1400|-1000|Sogdiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|uz_koktepe_2|UzKok02|Koktepe II|-750|-550|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_konya_mnl|TrNeoCR|Konya Plain - Ceramic Neolithic|-7000|-6600|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_konya_eba|TrBrzER|Konya Plain - Early Bronze Age|-3000|-2000|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_konya_eca|TrClcER|Konya Plain - Early Chalcolithic|-6000|-5500|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_konya_enl|TrNeoER|Konya Plain - Early Neolithic|-9600|-7000|Konya Plain|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_konya_lba|TrBrzL2|Konya Plain - Late Bronze Age II|-1500|-1400|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_konya_lca|TrClcLT|Konya Plain - Late Chalcolithic|-5500|-3000|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_konya_lnl|TrNeoLT|Konya Plain - Late Neolithic|-6600|-6000|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|sd_kush_k|SdKush|Kush Kingdom|-747|-656||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Afghanistan|af_kushan_emp|AfKushn|Kushan Empire|35|319|Sogdiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|West Africa|ni_kwararafa|ni_kwararafa|Kwararafa|596|1820||True|True|False|True|False|False|True|NEW West African Polities|
+South America and Caribbean|Caribbean|pa_la_mula_sarigua|PaLaMul|La Mula-Sarigua|-1300|200||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_la_tene_a_b1|FrTeneA|La Tene A-B1|-475|-325|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_la_tene_b2_c1|FrTeneB|La Tene B2-C1|-325|-175|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_la_tene_c2_d|FrTeneC|La Tene C2-D|-175|-27|Paris Basin|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Arabia|iq_lakhmid_k|IqLakhm|Lakhmid Kigdom|400|611||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|la_lan_xang_k|LaLanXang|Lan Xang Kingdom|1354|1707||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|kh_angkor_3|KhAngkL|Late Angkor|1220|1432|Cambodian Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_cappadocia_2|TrCappL|Late Cappadocia|-322|-93|Konya Plain|True|True|True|False|True|False|False|Equinox 2020 Polities|
+North America|Mexico|gt_tikal_late_classic|gt_tikal_late_classic|Late Classic Tikal|555|869||True|True|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Southern Europe|nl_dutch_emp_2|nl_dutch_emp_2|Late Dutch Empire|1815|1940||False|False|False|True|False|False|False|Other Polities|
+Africa|East Africa|tz_east_africa_ia_2|tz_east_africa_ia_2|Late East Africa Iron Age|800|1150||False|False|False|False|False|False|False|Other Polities|
+North America|Mexico|mx_basin_of_mexico_5|MxFormL|Late Formative Basin of Mexico|-400|-101|Basin of Mexico|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South America and Caribbean|Andes|bo_titicaca_late_formative|bo_titicaca_late_formative|Late Formative Titicaca Basin|100|499||False|False|False|False|False|False|False|Other Polities|
+Africa|West Africa|ni_formative_yoruba|ni_formative_yoruba|Late Formative Yoruba|650|1049||True|True|False|True|False|False|False|NEW West African Polities|
+South Asia|Eastern India|in_achik_2|InGaroL|Late Garo|1867|1956|Garo Hills|True|True|True|True|False|True|False|Equinox 2020 Polities|
+South America and Caribbean|Caribbean|pa_cocle_3|PaCocl3|Late Greater Coclé|1000|1515||False|False|False|False|False|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_late_illinois_confederation|USIllinL|Late Illinois Confederation|1718|1778||False|False|False|False|False|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_mongol_late|MnMongL|Late Mongols|1368|1690|Orkhon Valley|True|True|True|True|True|False|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_pallava_emp_2|in_pallava_emp_2|Late Pallava Empire|300|890||True|True|False|True|False|False|True|NEW South East Indian Polities|
+East Asia|North China|cn_qing_dyn_2|CnQingL|Late Qing|1796|1912|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_roman_rep_3|ItRomLR|Late Roman Republic|-133|-31|Latium|True|True|True|True|True|True|False|Equinox 2020 Polities|
+East Asia|North China|cn_late_shang_dyn|CnShang|Late Shang|-1250|-1045|Middle Yellow River Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+South America and Caribbean|Andes|bo_tiwanaku_2|bo_tiwanaku_2|Late Tiwanaku|800|1149||True|True|False|False|False|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_mexico_2|mx_mexico_2|Late United Mexican States|1921|2020||False|False|False|False|False|True|True|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_hunnu_late|MnXngnL|Late Xiongnu|-60|100|Orkhon Valley|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_later_qin_dyn|CnLrQin|Later Qin Kingdom|386|417||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|mr_wagadu_3|MrWagdL|Later Wagadu Empire|1078|1203|Niger Inland Delta|True|True|True|True|True|True|False|Equinox 2020 Polities|
+East Asia|North China|cn_later_yan_dyn|CnLrYan|Later Yan Kingdom|385|409||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_latin_emp|tr_latin_emp|Latin Empire|1204|1261||False|False|False|False|False|False|False|Other Polities|Latin Empire
+Europe|Southern Europe|it_latium_ba|ItLatBA|Latium - Bronze Age|-1800|-900|Latium|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_latium_ca|ItLatCA|Latium - Copper Age|-3600|-1800|Latium|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_latium_ia|ItLatIA|Latium - Iron Age|-1000|-580|Latium|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|es_leon_k|EsLeon|Leon|910|1158||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|es_leon_castille|EsLeCas|Leon & Castille|1230|1715||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|North India|in_lohara_dyn|InLohar|Lohara Dynasty|1003|1255||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_lombard_k|ItLombr|Lombard Kingdom|568|774||True|True|False|False|False|True|True|Equinox 2020 Polities|
+East Asia|North China|cn_longshan|CnLngsh|Longshan|-3000|-1900|Middle Yellow River Valley|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|cn_loulan_shanshan_k|CnLouIn|Loulan-Shanshan kingdom|25|330||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_lysimachus_k|TrLysim|Lysimachus Kingdom|-323|-281|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_macedonian_emp|GrMaced|Macedonian Empire|-330|-312||False|False|False|True|True|True|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_magadha_k|InMagad|Magadha|450|605|Middle Ganga|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_mahajanapada|InMahaJ|Mahajanapada era|-600|-324|Middle Ganga|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Somewhere|in_maitraka_dyn|InMaitr|Maitraka Dynasty|470|790||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|id_majapahit_k|IdMajap|Majapahit Kingdom|1292|1518|Central Java|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|East Africa|so_majeerteen_sultanate|so_majeerteen_sultanate|Majeerteen Sultanate|1750|1926||True|True|False|True|False|False|True|NEW East African Polities|
+Africa|Northeast Africa|sd_makuria_k_1|SdMakur1|Makuria Kingdom I|568|618||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|sd_makuria_k_2|SdMakur2|Makuria Kingdom II|619|849||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|sd_makuria_k_3|SdMakur3|Makuria Kingdom III|850|1099||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|my_malacca_sultanate_copy|MySultM|Malacca Sultanate|1396|1511||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|my_malacca_sultanate|SoIfatS|Malacca Sultanate|1270|1415||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ml_mali_emp|MlMali*|Mali Empire|1230|1410|Niger Inland Delta|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|West Africa|si_mane_emp|si_mane_emp|Mane|1550|1650||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|Southern Africa|mw_maravi_emp|mw_maravi_emp|Maravi Empire|1622|1870||False|False|False|True|False|False|False|Other Polities|
+Africa|Maghreb|ma_marinid_dyn|MaMarinid|Marinid Dynasty|1269|1465||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Archipelago|id_mataram_k|IdMatrm|Mataram Sultanate|1568|1703|Central Java|True|True|True|True|True|False|True|Equinox 2020 Polities|
+South Asia|Central India|in_maukhari_dyn|InMaukh|Maukhari Dynasty|550|605||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Sahel|ma_mauretania|MaKgMau|Mauretania|-125|44||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_mauryan_emp|InMaury|Maurya Empire|-324|-187|Middle Ganga|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southeast Asia|Archipelago|id_medang_k|IdMedng|Medang Kingdom|732|1019|Central Java|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_median_emp|IrMedes|Median Persian Empire|-715|-550||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|er_medri_bahri|er_medri_bahri|Medri Bahri|1310|1889||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|Northeast Africa|sd_meroe|Meroe|Meroe|-600|-300||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_central_anatolia_mba|TrBrzMD|Middle Bronze Age in Central Anatolia|-2000|-1700|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_basin_of_mexico_4|MxFormM|Middle Formative Basin of Mexico|-800|-401|Basin of Mexico|True|True|True|True|False|False|False|Equinox 2020 Polities|
+South America and Caribbean|Caribbean|pa_cocle_2|PaCocl2|Middle Greater Coclé|700|1000||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_merovingian_emp_2|FrMervM|Middle Merovingian|543|687|Paris Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+North America|Mexico|mx_basin_of_mexico_10|MxPostM|Middle Postclassic Basin of Mexico|1200|1426|Basin of Mexico|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_roman_rep_2|ItRomMR|Middle Roman Republic|-264|-133|Latium|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|West Africa|mr_wagadu_2|MrWagdM|Middle Wagadu Empire|700|1077|Niger Inland Delta|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|ni_nok_2|ni_nok_2|Middle and Late Nok|-900|0||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|ni_nok_1|ni_nok_1|Middle and Late Nok|-1500|-901||True|True|False|True|False|False|False|NEW West African Polities|
+Southwest Asia|Levant|sy_mitanni_k|SyMitan|Mitanni Kingdom|-1475|-1275||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_france_modern_1|fr_france_modern_1|Modern France I|1871|1940||False|False|False|False|False|False|False|Other Polities|
+South America and Caribbean|Caribbean|pa_monagrillo|PaMonag|Monagrillo|-3000|-1300||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_mongol_emp|MnMngKh|Mongol Empire|1206|1368|Orkhon Valley|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_mongolia_peoples_rep|mn_mongolia_peoples_rep|Mongolian People's Republic|1920|1992||False|False|False|False|False|False|False|Other Polities|
+Europe|Southeastern Europe|gr_crete_mono_palace|GrCrMPa|Monopalatial Crete|-1450|-1300|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_2|MxAlb2*|Monte Alban II|-100|200|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_3_a|MxAlb3A|Monte Alban III|200|500|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_3_b_4|MxAlb3B|Monte Alban IIIB and IV|500|900|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_1_late|MxAlb1L|Monte Alban Late I|-300|-100|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_5|MxAlb5*|Monte Alban V|900|1520|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_5_a|MxAlbEP|Monte Alban V Early Postclassic|900|1099||False|False|False|False|False|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_monte_alban_5_b|MxAlbLP|Monte Alban V Late Postclassic|1101|1520||False|False|False|False|False|True|False|Equinox 2020 Polities|
+Africa|West Africa|bf_mossi_k_1|bf_mossi_k_1|Mossi|1100|1897||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|East Africa|rw_mubari_k|Mubari|Mubari|-10000|2000||True|True|False|True|False|False|False|NEW East African Polities|
+South Asia|Southern South Asia|in_mughal_emp|InMugl*|Mughal Empire|1526|1858|Kachi Plain|True|True|True|False|True|True|True|Equinox 2020 Polities|
+Africa|Southern Africa|zi_mutapa|zi_mutapa|Mutapa|1450|1880||True|True|False|True|False|False|False|NEW Southern African Polities|
+Southwest Asia|Levant|jo_nabataean_k|JoNabat|Nabataean Kingdom|-312|106||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Eastern India|in_nanda_dyn|BdNanda|Nanda Dynasty|-413|-322||False|False|False|True|False|False|True|Other Polities|
+Southeast Asia|Mainland|cn_nanzhao_k|CnNanzh|Nanzhao Kingdom|800|900||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Western Europe|fr_france_napoleonic|fr_france_napoleonic|Napoleonic France|1816|1870||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_naqada_1|EgNaqa1|Naqada I|-3800|-3550|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_naqada_2|EgNaqa2|Naqada II|-3550|-3300|Upper Egypt|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_nara|JpNara*|Nara Kingdom|710|794||True|True|True|True|False|False|True|Equinox 2020 Polities|
+South Asia|Eastern India|bd_nawabs_of_bengal|BdNawabs|Nawabs of Bengal|1717|1757||False|False|False|True|False|False|True|Other Polities|
+South Asia|Southern South Asia|in_madurai_nayaks|in_madurai_nayaks|Nayaks of Madurai|1529|1736||True|True|False|True|False|False|True|NEW South East Indian Polities|
+South Asia|Southern South Asia|in_thanjavur_nayaks|in_thanjavur_nayaks|Nayaks of Thanjavur|1532|1676||True|True|False|True|False|False|True|NEW South East Indian Polities|
+Europe|Central Europe|de_ns_germany|de_third_reich|Nazi Germany|1933|1945||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Africa|East Africa|rw_ndorwa_k|Ndorwa|Ndorwa|1700|1800||True|True|False|True|False|False|False|NEW East African Polities|
+South America and Caribbean|Caribbean|co_neguanje|CoNahua|Neguanje|250|1050|North Colombia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_neo_assyrian_emp|IqNAssr|Neo-Assyrian Empire|-911|-612|Southern Mesopotamia|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_neo_babylonian_emp|IqNeoBb|Neo-Babylonian Empire|-626|-539|Southern Mesopotamia|True|True|True|True|False|False|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_neo_hittite_k|TrNHitt|Neo-Hittite Kingdoms|-1180|-900|Konya Plain|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_nl|GrCrNeo|Neolithic Crete|-7000|-3000|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_ganga_nl|InGangN|Neolithic Middle Ganga|-7000|-3001|Middle Ganga|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_yemen_lnl|YeNeoL*|Neolithic Yemen|-3500|-1201|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_new_palace|GrCrNPa|New Palace Crete|-1700|-1450|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|vt_nguyen_dyn|vt_nguyen_dyn|Nguyen Dynasty|1802|1887||False|False|False|False|False|False|False|Other Polities|
+Africa|East Africa|ug_nkore_k_2|Classical Nkore|Nkore|1750|1901||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|East Africa|ug_nkore_k_1|Early Nkore|Nkore|1450|1749||True|True|False|True|False|False|False|NEW East African Polities|
+Europe|Western Europe|gb_england_norman|gb_england_norman|Norman England|1067|1143||True|False|False|False|False|False|True|Equinox 2020 Polities|
+Africa|Southern Africa|mw_northern_maravi_k|mw_northern_maravi_k|Northern Maravi Kingdom|1500|1621||False|False|False|True|False|False|False|Other Polities|
+East Asia|North China|cn_northern_song_dyn|CnNSong|Northern Song|960|1127|Middle Yellow River Valley|True|True|True|False|True|True|True|Equinox 2020 Polities|
+East Asia|North China|cn_northern_wei_dyn|CnNWei*|Northern Wei|386|534|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Eastern Europe|ru_novgorod_land|RuNovPr|Novgorod Land|880|1240||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Eastern Europe|ru_novgorod_rep|RuNovRp|Novgorod Republic|1135|1478||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Maghreb|dz_numidia|DzNumid|Numidia|-220|-46||False|False|False|False|False|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_rosario|MxRosar|Oaxaca - Rosario|-700|-500|Valley of Oaxaca|True|True|True|True|True|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_san_jose|MxSanGu|Oaxaca - San Jose|-1150|-700|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+North America|Mexico|mx_tierras_largas|MxTieLa|Oaxaca - Tierras Largas|-1400|-1150|Valley of Oaxaca|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|kz_oirat|KzOirat|Oirats|1368|1630||True|True|False|False|False|True|False|Equinox 2020 Polities|
+Europe|Central Europe|ch_swiss_conf_1|ch_swiss_conf_1|Old Swiss Confederacy|1315|1515||False|False|False|False|False|False|False|Other Polities|Swiss Confederation
+Southwest Asia|Arabia|om_nabhani_imamate|OmImamat|Oman Imamate|1160|1660||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Arabia|om_yaruba_imamate|om_yaruba_imamate|Oman Imamate Yaruba Period|1160|1660||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Arabia|om_azd|OmAzd|Omani Azd Tribe|632|702||False|False|False|False|False|False|False|Equinox 2020 Polities|
+North America|Mississippi Basin|us_oneota|USOneot|Oneota|1400|1650|Cahokia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Oceania-Australia|New Guinea|pg_orokaiva_colonial|PgOrokL|Orokaiva - Colonial|1884|1942|Oro PNG|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Oceania-Australia|New Guinea|pg_orokaiva_pre_colonial|PgOrokE|Orokaiva - Pre-Colonial|1734|1883|Oro PNG|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_ostrogoth_k|ItOstrg|Ostrogothic Kingdom|489|554|Latium|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_ottoman_emirate|TrOttm1|Ottoman Emirate|1299|1402|Konya Plain|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_ottoman_emp_1|TrOttm2|Ottoman Empire I|1402|1517|Konya Plain|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_ottoman_emp_2|TrOttm3|Ottoman Empire II|1517|1683|Konya Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_ottoman_emp_3|TrOttm4|Ottoman Empire III|1683|1839|Konya Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_ottoman_emp_4|TrOttm5|Ottoman Empire IV|1839|1922|Konya Plain|False|False|False|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_ottoman_emp_4_copy|YeOttoL|Ottoman Empire Late Period|1873|1920||False|False|False|False|False|True|False|Equinox 2020 Polities|
+Africa|West Africa|ni_oyo_emp_1|ni_oyo_emp_1|Oyo|1300|1535||True|True|False|True|False|False|False|NEW West African Polities|
+South Asia|Somewhere|in_pala_emp|InPala|Pala Empire|750|1174||False|False|False|True|False|False|True|Equinox 2020 Polities|
+South Asia|Southern South Asia|in_pandya_emp_2|in_pandya_emp_2|Pandya Dynasty|590|915||True|True|False|False|False|False|True|NEW South East Indian Polities|
+South Asia|Southern South Asia|in_pandya_emp_222|in_pandya_emp_222|Pandya Empire|1250|1323||True|True|False|True|False|False|False|NEW South East Indian Polities|
+Europe|Southern Europe|it_papal_state_1|ItPapHM|Papal States - High Medieval Period|1198|1309|Latium|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_papal_state_3|ItPapM1|Papal States - Medieval Period I|1527|1648|Latium|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_papal_state_4|ItPapM2|Papal States - Medieval Period II|1648|1809|Latium|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_papal_state_2|ItPapRn|Papal States - Renaissance Period|1378|1527|Latium|True|True|True|True|True|False|True|Equinox 2020 Polities|
+South Asia|Central India|in_paramara_dyn|InParam|Paramara Dynasty|974|1235||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_parthian_emp_1|IrPart1|Parthian Empire I|-247|40|Susiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Iran|iq_parthian_emp_2|IrPart2|Parthian Empire II|41|226|Southern Mesopotamia|True|True|True|False|False|True|True|Equinox 2020 Polities|
+East Asia|North China|cn_peiligang|CnPeili|Peiligang|-7000|-5001|Middle Yellow River Valley|True|True|True|False|False|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_chinese_peoples_rep|cn_chinese_peoples_rep|People's Republic of China|1950|2020||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Anatolia-Caucasus|tr_pergamon_k|TrPergm|Pergamon Kingdom|-282|-133||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Levant|lb_phoenician_emp|LbAcPho|Phoenician Empire|-1200|-332|Galilee|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_phrygian_k|TrPhryg|Phrygian Kingdom|-900|-695|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Western Europe|gb_england_plantagenet|gb_england_plantagenet|Plantagenet England|1144|1485||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Central Europe|pl_jagiellonian_dyn|PlPoLit|Poland-Lithuania Kingdom|1386|1569||True|False|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Central Europe|pl_piast_dyn_1|PlPoliK|Polish Kingdom - Piast Dynasty|963|1138||True|False|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Central Europe|pl_piast_dyn_2|pl_piast_dyn_2|Polish Kingdom - Piast Dynasty Fragmented Period|1139|1370||True|False|False|False|False|False|True|Other Polities|
+Europe|Central Europe|pl_polish_peoples_rep|pl_polish_peoples_rep|Polish People's Republic|1953|1989||False|False|False|False|False|False|False|Other Polities|Republic of Poland
+Europe|Central Europe|pl_poland_lithuania_commonwealth|pl_poland_lithuania_commonwealth|Polish–Lithuanian Commonwealth|1570|1791||False|False|False|False|False|False|True|Other Polities|
+South Asia|Southern South Asia|sl_polonnaruva|sl_polonnaruva|Polonnaruwa|1070|1255||True|True|False|True|False|False|True|NEW South East Indian Polities|
+Europe|Southern Europe|pt_portuguese_emp_2|pt_portuguese_emp_2|Portuguese Empire - Early Modern|1640|1806||False|False|False|True|False|False|True|Other Polities|
+Europe|Southern Europe|pt_portuguese_emp_1|pt_portuguese_emp_1|Portuguese Empire - Renaissance Period|1495|1579||False|False|False|True|False|False|True|Other Polities|
+South Asia|Central India|in_post_mauryan_k|InDecKg|Post-Mauryan Kingdoms|-205|-101|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_post_palace_1|GrCrPPa|Postpalatial Crete|-1300|-1200|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susiana_pre_ceramic|IrPrCer|Pre-Ceramic Period|-7800|-7200|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Africa|Southern Africa|mw_pre_maravi|mw_pre_maravi|Pre-Maravi|1151|1399||False|False|False|True|False|False|False|Other Polities|
+Africa|West Africa|si_pre_sape|si_pre_sape|Pre-Sape Sierra Leone|600|1400||True|True|False|True|False|False|False|NEW West African Polities|
+Europe|Southeastern Europe|gr_crete_pre_palace|GrCrPre|Prepalatial Crete|-3000|-1900|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_achaea_principality|gr_achaea_principality|Principality of Achaea|1204|1432||False|False|False|False|False|False|False|Other Polities|Principality of Achaea
+Europe|Central Europe|hu_hungary_principality|hu_hungary_principality|Principality of Hungary|895|999||False|False|False|False|False|False|False|Other Polities|Principality of Hungary
+Europe|Eastern Europe|md_moldavia_principality_1|md_moldavia_principality_1|Principality of Moldavia I|1346|1503||False|False|False|False|False|False|False|Other Polities|Principality of Moldavia
+Europe|Eastern Europe|md_moldavia_principality_2|md_moldavia_principality_2|Principality of Moldavia II|1504|1710||False|False|False|False|False|False|False|Other Polities|Principality of Moldavia
+Europe|Eastern Europe|md_moldavia_principality_3|md_moldavia_principality_3|Principality of Moldavia III|1711|1859||False|False|False|False|False|False|False|Other Polities|Principality of Moldavia
+Europe|Eastern Europe|ru_ryazan_principality|RuRyazan|Principality of Ryazan|1097|1521||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Eastern Europe|ro_wallachia_principality|ro_wallachia_k|Principality of Wallachia|1330|1859||False|False|False|False|False|False|False|Other Polities|Principality of Wallachia
+Europe|Western Europe|fr_merovingian_emp_3|FrMervL|Proto-Carolingian|687|751|Paris Basin|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Europe|Western Europe|fr_capetian_k_1|FrCaptE|Proto-French Kingdom|987|1150|Paris Basin|True|True|True|True|True|False|True|Equinox 2020 Polities|
+North America|East Coast|us_proto_haudenosaunee|UsIroqP|Proto-Haudenosaunee Confederacy|1300|1565|Finger Lakes|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ni_proto_yoruba|ni_proto_yoruba|Proto-Yoruba|301|649||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|ni_proto_yoruboid|ni_proto_yoruboid|Proto-Yoruboid|-300|300||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|Northeast Africa|eg_ptolemaic_k_1|EgPtol1|Ptolemaic Kingdom I|-305|-217|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Africa|Northeast Africa|eg_ptolemaic_k_2|EgPtol2|Ptolemaic Kingdom II|-217|-30|Upper Egypt|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_qajar_dyn|IrQajar|Qajar|1794|1925|Susiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_qara_qoyunlu|tr_qara_qoyunlu|Qara Qoyunlu|1375|1468||False|False|False|False|False|False|False|Other Polities|Qara Qoyunlu
+Southwest Asia|Arabia|ye_qasimid_dyn_222222|ye_qasimid_dyn_222222|Qasimid Dynasty XXXXXXX|1637|1805||True|True|False|False|False|False|False|Other Polities|
+Southwest Asia|Arabia|ye_qatabanian_commonwealth|YeQatab|Qatabanian Commonwealth|-450|-111|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_qin_emp|CnImQin|Qin Empire|-338|-207||False|False|False|True|False|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_ramadanid_emirate|tr_ramadanid_emirate|Ramadanid Emirate|1397|1517||False|False|False|False|False|False|False|Other Polities|Ramadanid Emirate
+South Asia|Central India|in_rashtrakuta_emp|InRasht|Rashtrakuta Empire|753|973|Deccan|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_resulid_dyn|YeRasul|Rasulid Dynasty|1229|1453|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|th_rattanakosin|ThRattn|Rattanakosin|1782|1873|Cambodian Basin|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_florence_rep|it_florence_rep|Republic and Duchy of Florence|1115|1568||False|False|False|False|False|False|False|Other Polities|Republic of Florence
+Central and Northern Eurasia|Afghanistan|af_afghanistan_rep|af_afghanistan_rep|Republic of Afghanistan|1974|2020||False|False|False|False|False|False|False|Other Polities|
+South America and Caribbean|Andes|ch_chile_rep_1|ch_chile_rep_1|Republic of Chile I|1818|1990||False|False|False|False|False|False|False|Other Polities|
+East Asia|North China|cn_chinese_rep|cn_chinese_rep|Republic of China|1913|1949||False|False|False|False|False|False|False|Other Polities|
+South America and Caribbean|Caribbean|co_colombia_rep_1|co_colombia_rep_1|Republic of Colombia I|1819|1958||False|False|False|False|False|False|False|Other Polities|
+North America|Mexico|cr_costa_rica_rep|cr_costa_rica_rep|Republic of Costa Rica|1838|2020||False|False|False|False|False|False|False|Other Polities|
+South America and Caribbean|Caribbean|cu_cuba_rep_1|cu_cuba_rep_1|Republic of Cuba I|1902|1956||False|False|False|False|False|False|False|Other Polities|
+Africa|Northeast Africa|eg_egypt_rep|eg_egypt_rep|Republic of Egypt|1959|2020||False|False|False|False|False|False|False|Other Polities|
+Europe|Northern Europe|su_finland_rep|su_finland_rep|Republic of Finland|1917|2020||False|False|False|False|False|False|False|Other Polities|
+Europe|Southern Europe|it_genoa_rep|it_genoa_rep|Republic of Genoa|1099|1284||False|False|False|False|False|False|False|Other Polities|Republic of Genoa
+Europe|Southern Europe|it_genoa_rep_2|it_genoa_rep_2|Republic of Genoa II|1285|1528||False|False|False|False|False|False|False|Other Polities|Republic of Genoa
+Europe|Southern Europe|it_genoa_rep_3|it_genoa_rep_3|Republic of Genoa III|1529|1797||False|False|False|False|False|False|False|Other Polities|Republic of Genoa
+Southeast Asia|Archipelago|id_indonesian_rep|id_indonesian_rep|Republic of Indonesia|1949|2020||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Mesopotamia|iq_iraq_rep|iq_iraq_rep|Republic of Iraq|1959|2020||False|False|False|False|False|False|False|Other Polities|
+Europe|Western Europe|ei_ireland_rep|ei_ireland_rep|Republic of Ireland|1922|2020||False|False|False|False|False|False|False|Other Polities|
+East Asia|Northeast Asia|ko_korean_rep|ko_korean_rep|Republic of Korea|1948|2020||False|False|False|False|False|False|False|Other Polities|
+Europe|Eastern Europe|pl_polish_rep_1|pl_polish_rep_1|Republic of Poland I|1919|1939||False|False|False|False|False|False|False|Other Polities|Second Polish Republic
+Africa|Central Africa|rw_rwanda_rep|rw_rwanda_rep|Republic of Rwanda|1962|2020||False|False|False|False|False|False|False|Other Polities|
+Africa|Southern Africa|sa_south_africa_rep|sa_south_africa_rep|Republic of South Africa|1920|2020||False|False|False|False|False|False|False|Other Polities|
+Europe|Southern Europe|it_st_peter_rep_1|ItStPet|Republic of St Peter I|711|904|Latium|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|Maghreb|tn_tunisia_rep|tn_tunisia_rep|Republic of Tunisia|1956|2020||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Anatolia-Caucasus|tr_turkey_rep|tr_turkey_rep|Republic of Turkey|1923|2020||False|False|False|False|False|False|True|Equinox 2020 Polities|
+South America and Caribbean|Caribbean|ve_venezuela_rep_1|ve_venezuela_rep_1|Republic of Venezuela I|1830|1983||False|False|False|False|False|False|False|Other Polities|
+Europe|Southern Europe|it_venetian_rep_3|ItVenR3|Republic of Venice III|1204|1563|Crete|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_venetian_rep_4|ItVenR4|Republic of Venice IV|1564|1797|Crete|True|True|True|True|False|False|True|Equinox 2020 Polities|
+Southeast Asia|Mainland|vt_vietnam_rep|vt_vietnam_rep|Republic of Vietnam|1955|1975||False|False|False|False|False|False|False|Other Polities|
+Southeast Asia|Archipelago|pi_phililippines_rep|pi_phililippines_rep|Republic of the Philippines|1946|2020||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Anatolia-Caucasus|tr_roman_dominate|TrRomDm|Roman Empire - Dominate|285|394|Konya Plain|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_roman_principate|ItRomPr|Roman Empire - Principate|-31|284|Latium|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_roman_k|ItRomRg|Roman Kingdom|-716|-509|Latium|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_st_peter_rep_2|ItPapEM|Rome - Republic of St Peter II|904|1198|Latium|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_rouran_khaganate|MnRourn|Rouran Khaganate|300|555|Orkhon Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_rum_sultanate|TrRum**|Rum Sultanate|1077|1307|Konya Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Eastern Europe|ru_romanov_dyn_1|ru_romanov_dyn_1|Russian Empire, Romanov Dynasty I|1614|1775||True|True|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Eastern Europe|ru_romanov_dyn_2|ru_romanov_dyn_2|Russian Empire, Romanov Dynasty II|1776|1917||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Eastern Europe|ua_russian_principate|UaRusPr|Russian Principate|1133|1240||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ma_saadi_sultanate|MaSaadi|Saadi Sultanate|1554|1659|Niger Inland Delta|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_sabaean_commonwealth|YeSabaC|Sabaean Commonwealth|-800|-451|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_safavid_emp|IrSafvd|Safavid Empire|1501|1722|Susiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_saffarid_emp|IrSaffr|Saffarid Caliphate|861|1003||True|True|False|False|False|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Siberia|ru_sakha_early|RuYakuE|Sakha - Early|1400|1632|Lena River Valley|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Siberia|ru_sakha_late|RuYakuL|Sakha - Late|1632|1900|Lena River Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|uz_samanid_emp|UzSamnd|Samanid Empire|819|999|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Central Europe|it_genoa_rep_1|cz_samo_k|Samo's Empire|623|658||False|False|False|False|False|False|False|Other Polities|
+Africa|West Africa|si_sape|si_sape|Sape|1400|1550||True|True|False|True|False|False|False|NEW West African Polities|
+Central and Northern Eurasia|Turkestan|tj_sarasm|TjSaraz|Sarazm|-3500|-2000|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_sassanid_emp_1|IrSasn1|Sasanid Empire I|205|487|Susiana|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_sassanid_emp_2|IrSasn2|Sasanid Empire II|488|642|Susiana|True|True|True|False|True|True|True|Equinox 2020 Polities|
+South Asia|Central India|in_satavahana_emp|InSataL|Satavahana Empire|-100|203|Deccan|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Central Europe|at_austrian_rep_2|at_austrian_rep_2|Second Austrian Republic|1945|2020||False|False|False|False|False|False|False|Other Polities|
+Southwest Asia|Mesopotamia|iq_isin_dynasty2|IqIsin2|Second Dynasty of Isin|-1153|-1027|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_turk_khaganate_2|MnTurk2|Second Turk Khaganate|682|744|Orkhon Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|West Africa|ml_segou_k|MlSegou|Segou Kingdom|1650|1712|Niger Inland Delta|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_seleucid_emp|IrSeleu|Seleucids|-312|-63|Southern Mesopotamia|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_seljuk_sultanate|IrSeljq|Seljuk Sultanate|1037|1157|Susiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+South Asia|Eastern India|bd_sena_dyn|bd_sena_dyn|Sena Dynasty|1095|1245||False|False|False|True|False|False|False|Other Polities|
+South Asia|Somewhere|in_sharqi_dyn|InSharq|Sharqi|1394|1479||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|uz_shaybanid_k|UzShayb|Shaybanid Kingdom|1500|1598||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_shiwei|MnShiwe|Shiwei|600|1000|Orkhon Valley|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Africa|East Africa|et_showa_sultanate|et_showa_sultanate|Shoa Sultanate|1108|1285||True|True|False|False|False|False|False|NEW East African Polities|
+South America and Caribbean|Amazonia|ec_shuar_1|EcJivaE|Shuar - Colonial|1534|1830|Lowland Andes|True|True|True|True|True|True|False|Equinox 2020 Polities|
+South America and Caribbean|Amazonia|ec_shuar_2|EcJivaL|Shuar - Ecuadorian|1831|1931|Lowland Andes|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Siberia|ru_sibir_khanate|RuSibir|Sibir Khanate|1490|1598||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|it_sicily_k|ItSicilK|Sicily Kingdom|1194|1266||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_sind_abbasid_fatimid|PkSind1|Sind - Abbasid-Fatimid Period|854|1193|Kachi Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|Pakistan|pk_samma_dyn|PkSind2|Sind - Samma Dynasty|1335|1521|Kachi Plain|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southeast Asia|Mainland|vt_vietnam_socialist_rep|vt_vietnam_socialist_rep|Socialist Republic of Vietnam|1975|2020||False|False|False|False|False|False|False|Other Polities|
+Central and Northern Eurasia|Turkestan|uz_sogdiana_city_states|UzSogdi|Sogdiana - City-States Period|604|711|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|ni_sokoto_cal|ni_sokoto_cal|Sokoto Caliphate|1804|1904||True|True|False|True|False|False|True|NEW West African Polities|
+South Asia|North India|in_solanki_dyn|InSolan|Solankis|941|1245||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Sahel|ml_songhai_1|MlSong1|Songhai Empire|1376|1493||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ml_songhai_2|MlSong2|Songhai Empire - Askiya Dynasty|1493|1591|Niger Inland Delta|True|True|True|False|True|True|False|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_so_mesopotamia_nl|IqSoNeo|Southern Mesopotamia Neolithic|-9000|-5501|Southern Mesopotamia|True|True|True|False|False|False|False|Equinox 2020 Polities|
+East Asia|South China|cn_souther_qi_dyn|CnSouQi|Southern Qi State|479|502||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|South China|cn_southern_song_dyn|CnSSong|Southern Song|1127|1279||False|False|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Eastern Europe|ru_soviet_union|ru_soviet_union|Soviet Union|1918|1991||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|es_spanish_emp_1|EsHabsb|Spanish Empire I|1516|1715|Cuzco|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|es_spanish_emp_2|es_spanish_emp_2|Spanish Empire II|1716|1814||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|es_spanish_emp_3|es_spanish_emp_3|Spanish Empire III|1815|1931||False|False|False|False|False|False|False|Other Polities|
+South Asia|Southern South Asia|sl_sri_lanka|sl_sri_lanka|Sri Lanka|1948|2020||False|False|False|False|False|False|False|Other Polities|
+Southeast Asia|Archipelago|id_srivijaya_emp|IdSrivi|Srivijaya Empire|852|1200||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Central Europe|pl_teutonic_order|PlTeuton|State of the Teutonic Order|1300|1400||True|False|False|False|False|False|True|Equinox 2020 Polities|
+East Asia|North China|cn_sui_dyn|CnSui**|Sui Dynasty|581|618|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southeast Asia|Mainland|th_sukhotai|ThSukho|Sukhotai|1238|1419||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|East Africa|so_geledi_sultanate|so_geledi_sultanate|Sultanate of Geledi|1750|1911||True|True|False|True|False|False|True|NEW East African Polities|
+South Asia|Southern South Asia|in_sunga_emp|InSunga|Sunga Empire|-187|-65|Middle Ganga|True|True|True|True|False|False|True|Equinox 2020 Polities|
+South Asia|North India|in_sur_emp|in_sur_emp|Sur Empire|1540|1556||False|False|False|True|False|False|True|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susa_1|IrSusa1|Susa I|-4300|-3800|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susa_2|IrSusa2|Susa II|-3800|-3100|Susiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susa_3|IrSusa3|Susa III|-3100|-2675|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susiana_ubaid_1|IrKhzM*|Susiana - Early Ubaid|-5100|-4700|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susiana_ubaid_2|IrKhzL*|Susiana - Late Ubaid|-4700|-4300|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susiana_archaic|IrArcha|Susiana - Muhammad Jaffar|-7000|-6000|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susiana_a|IrKhzE*|Susiana A|-6000|-5700|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Iran|ir_susiana_b|IrKhzEM|Susiana B|-5700|-5100|Susiana|True|True|True|False|True|False|False|Equinox 2020 Polities|
+Europe|Northern Europe|sv_swedish_k|SeSwedi|Swedish Kingdom|1523|1721||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Central Europe|ch_swiss_conf_3|ch_swiss_conf_3|Swiss Confederation - Napoleonic period|1799|1848||False|False|False|False|False|False|False|Other Polities|Swiss Confederation
+Europe|Central Europe|ch_swiss_conf_2|ch_swiss_conf_2|Swiss Confederation - early modern period|1516|1798||False|False|False|False|False|False|False|Other Polities|Swiss Confederation
+Europe|Central Europe|ch_swiss_conf_4|ch_swiss_conf_4|Swiss Confederation - modern period|1849|2014||False|False|False|False|False|False|False|Other Polities|Swiss Confederation
+Southwest Asia|Anatolia-Caucasus|tr_tabal_k|TrTabal|Tabal Kingdoms|-900|-730|Konya Plain|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Africa|Maghreb|dz_tahert|DzTahrt|Tahert|761|909||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|es_taifas|es_taifas|Taifas of Iberia|1010|1241||False|False|False|False|False|False|False|Other Polities|Taifa of Albarracín, Taifa of Santa Maria do Algarve, Taifa of Algeciras, Taifa of Almería, Taifa of Alpuente, Taifa of Arcos, Taifa of Badajoz, Taifa of Carmona, Taifa of Ceuta, Taifa of Córdoba, Taifa of Dénia, Taifa of Granada, Taifa of Saltés and Huelva, Taifa of Murcia, Taifa of Morón, Taifa of
+South America and Caribbean|Caribbean|co_tairona|CoTairo|Tairona|1050|1524|North Colombia|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_tang_dyn_1|CnTangE|Tang Dynasty I|617|763|Middle Yellow River Valley|True|True|True|False|True|True|True|Equinox 2020 Polities|
+East Asia|North China|cn_tang_dyn_2|CnTangL|Tang Dynasty II|763|907|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+North America|Mexico|gt_tikal_terminal_classic|gt_tikal_terminal_classic|Terminal Classic Tikal|870|950||False|False|False|False|False|True|False|Equinox 2020 Polities|
+North America|Mexico|mx_basin_of_mexico_6|MxFormT|Terminal Formative Basin of Mexico|-100|99|Basin of Mexico|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Southeast Asia|Mainland|th_reform_period_thailand|th_reform_period_thailand|Thailand Reform Period|1887|1932||False|False|False|False|False|False|False|Other Polities|
+South Asia|Southern South Asia|in_thanjavur_maratha_k|in_thanjavur_maratha_k|Thanjavur Maratha Kingdom|1675|1799||True|True|False|True|False|False|True|NEW South East Indian Polities|
+Europe|Southeastern Europe|gr_crete_emirate|GrCrEmr|The Emirate of Crete|824|961|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|gr_crete_old_palace|GrCrOPa|The Old Palace Crete|-1900|-1700|Crete|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Eastern Europe|ua_skythian_k_3|UaSky3K|Third Scythian Kingdom|-429|-225||False|False|False|False|False|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Tibet|cn_tibet_k|CnTibet|Tibet Kingdom|620|846||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|uz_timurid_emp|UzTimur|Timurid Empire|1370|1526|Sogdiana|True|True|True|True|True|True|True|Equinox 2020 Polities|
+South America and Caribbean|Andes|bo_titicaca_early_pacajes|bo_titicaca_early_pacajes|Titicaca Basin - Early Pacajes phase|1150|1450||False|False|False|False|False|True|False|Equinox 2020 Polities|
+Africa|Maghreb|dz_tlemcen|DzTlmcn|Tlemcen|1235|1554||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Afghanistan|af_tocharian|AfTochr|Tocharians|-129|29|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_tokugawa_shogunate|JpTokgw|Tokugawa Shogunate|1603|1868|Kansai|True|True|True|True|True|True|True|Equinox 2020 Polities|
+North America|Mexico|mx_toltec|MxToltc|Toltecs|900|1199|Basin of Mexico|True|True|True|True|False|True|False|Equinox 2020 Polities|
+Africa|East Africa|ug_toro_k|Toro|Toro|1830|1896||True|True|False|True|False|False|False|NEW East African Polities|
+Africa|Southern Africa|zi_torwa_rozvi|zi_torwa_rozvi|Torwa-Rozvi|1494|1850||True|True|False|True|False|False|True|NEW Southern African Polities|
+Africa|Southern Africa|zi_toutswe|zi_toutswe|Toutswe|700|1250||True|True|False|True|False|False|False|NEW Southern African Polities|
+Europe|Western Europe|gb_england_tudor_and_early_stuart|GBEnglK|Tudor and Early Stuart England|1486|1689||True|True|False|False|False|True|True|Equinox 2020 Polities|
+Africa|East Africa|so_tunni_sultanate|so_tunni_sultanate|Tunni Sultanate|800|1200||True|True|False|False|False|False|False|NEW East African Polities|
+Central and Northern Eurasia|Mongolia|cn_tuyuhun|CnTuyhn|Tuyuhun|300|663||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Eastern India|bd_twelve_bhuyans|BdBhuyans|Twelve Bhuyans|1538|1612||False|False|False|True|False|False|True|Other Polities|
+Southwest Asia|Mesopotamia|iq_ubaid|IqUbaid|Ubaid|-5500|-4201|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_uygur_khaganate|MnUigur|Uigur Khaganate|745|840|Orkhon Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Southwest Asia|Levant|sy_umayyad_cal|SyCalUm|Umayyad Caliphate|661|750|Southern Mesopotamia|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Northern Europe|sv_united_k_sweden_and_norway|sv_united_k_sweden_and_norway|United Kingdoms of Sweden and Norway|1816|1905||False|False|False|False|False|False|False|Other Polities|
+North America|Mexico|mx_united_mexican_states_1|mx_united_mexican_states_1|United Mexican States I|1821|1917||False|False|False|False|False|False|False|Other Polities|
+North America|East Coast|us_united_states_of_america_contemporary|us_united_states_of_america_contemporary|United States of America - Contemporary|1934|2020||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_ur_dyn_3|IqUrIII|Ur - Dynasty III|-2112|-2004|Southern Mesopotamia|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Southwest Asia|Anatolia-Caucasus|tr_urartu_k|TrUrart|Urartu Kingdom|-1200|-710||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Mesopotamia|iq_uruk|IqUruk*|Uruk|-4000|-2900|Southern Mesopotamia|True|True|True|True|False|False|False|Equinox 2020 Polities|
+North America|East Coast|us_united_states_of_america_reconstruction|us_united_states_of_america_reconstruction|Us Reconstruction-Progressive|1866|1933||True|True|False|False|False|True|True|Equinox 2020 Polities|
+South Asia|North India|in_utpala_dyn|InUtpal|Utpala Dynasty|855|1003||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_vakataka_k|InVakat|Vakataka Kingdom|255|550|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|Maghreb|dz_vandal_k|DzVandal|Vandal Kingdom|429|534||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|North India|in_vanga_k|in_vanga_k|Vanga Dynasty|550|600||False|False|False|True|False|False|False|Other Polities|
+South Asia|Eastern India|bd_varman_dyn|bd_varman_dyn|Varman Dynasty|1080|1150||False|False|False|True|False|False|False|Other Polities|
+Southeast Asia|Mainland|cn_viet_baiyu_k|CnBaiyu|Viet Baiyu Kingdom|-332|-109||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_vijayanagara_emp|InVijay|Vijayanagara Empire|1336|1646|Deccan|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Europe|Southern Europe|es_visigothic_k|EsVisigoth|Visigothic Kingdom|418|711||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Eastern Europe|ru_vladimir_suzdal|RuVldSz|Vladimir-Suzdal|1157|1331||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|bg_volga_k|BgVolga|Volga Kingdom|965|1236||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South America and Caribbean|Andes|pe_wari_emp|PeWari*|Wari Empire|650|999|Cuzco|True|True|True|True|True|True|False|Equinox 2020 Polities|
+East Asia|Northeast Asia|jp_sengoku_jidai|JpSengk|Warring States Japan|1467|1568|Kansai|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Africa|West Africa|ic_wattara_emp|ic_wattara_emp|Wattara Empire|1710|1895||False|False|False|True|False|False|False|Other Polities|
+Africa|Maghreb|ma_wattasid_dyn|MaWaFez|Wattasid|1465|1554||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_wei_k|CnWei3*|Wei Kingdom|220|265||False|False|False|False|False|False|True|Equinox 2020 Polities|
+Europe|Central Europe|de_weimar_rep|de_weimar_rep|Weimar Republic|1918|1932||False|False|False|False|False|False|False|Other Polities|
+Africa|West Africa|bf_west_burkina_faso_red_1|bf_west_burkina_faso_red_1|West Burkina Faso Red I|701|1100||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|bf_west_burkina_faso_red_2|bf_west_burkina_faso_red_2|West Burkina Faso Red II and III|1100|1400||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|bf_west_burkina_faso_red_4|bf_west_burkina_faso_red_4|West Burkina Faso Red IV|1401|1500||True|True|False|False|False|False|False|NEW West African Polities|
+Africa|West Africa|bf_west_burkina_faso_yellow_5|bf_west_burkina_faso_yellow_5|West Burkina Faso Yellow I|100|500||True|True|False|True|False|False|False|NEW West African Polities|
+Africa|West Africa|bf_west_burkina_faso_yellow_6|bf_west_burkina_faso_yellow_6|West Burkina Faso Yellow II|501|700||True|True|False|False|False|False|False|NEW West African Polities|
+East Asia|North China|cn_western_han_dyn|CnWHan*|Western Han Empire|-202|9|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+East Asia|North China|cn_western_jin_dyn|CnErJin|Western Jin|265|317|Middle Yellow River Valley|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Europe|Southern Europe|it_western_roman_emp|ItRomWe|Western Roman Empire - Late Antiquity|395|476|Latium|True|True|True|True|True|True|True|Equinox 2020 Polities|
+South Asia|Pakistan|pk_western_satraps|PkWSatrp|Western Satraps|35|405||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|kg_western_turk_khaganate|KgWTurk|Western Turk Khaganate|582|630|Sogdiana|True|True|True|True|True|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_western_zhou_dyn|CnWZhou|Western Zhou|-1122|-771|Middle Yellow River Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Africa|West Africa|ni_whydah_k|ni_whydah_k|Whydah|1671|1727||True|True|False|True|False|False|False|NEW West African Polities|
+East Asia|South China|cn_wu_confederacy|CnWuCfd|Wu Confederacy|-585|-477||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|West Africa|ni_wukari_fed|ni_wukari_fed|Wukari Federation|1820|1899||True|True|False|True|False|False|True|NEW West African Polities|
+Central and Northern Eurasia|Mongolia|mn_xianbei|MnXianb|Xianbei Confederation|100|250|Orkhon Valley|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_hunnu_emp|MnXngnM|Xiongnu Imperial Confederation|-209|-60|Orkhon Valley|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|cn_xixia|CnXixia|Xixia|1032|1227||False|False|False|False|False|False|False|Equinox 2020 Polities|
+South Asia|Central India|in_yadava_dyn|InYadav|Yadava Dynasty|1187|1318||False|False|False|False|False|False|False|Equinox 2020 Polities|
+East Asia|North China|cn_yangshao|CnYngsh|Yangshao|-5000|-3000|Middle Yellow River Valley|True|True|True|True|True|False|False|Equinox 2020 Polities|
+South Asia|North India|in_yaudheya_rep|InYaudh|Yaudheya Republic|300|375||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Southwest Asia|Levant|il_judea|IlJudea|Yehuda|-141|-63|Galilee|True|True|True|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_warlords|YeWarLd|Yemen - Era of Warlords|1038|1174|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_yemen_lba|YeLBA**|Yemen - Late Bronze Age|-1200|-801|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_qasimid_dyn|YeQasmi|Yemen - Qasimid Dynasty|1637|1805|Yemeni Coastal Plain|True|True|True|True|True|True|False|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_tahirid_dyn|YeTahir|Yemen - Tahirid Dynasty|1454|1517|Yemeni Coastal Plain|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Southwest Asia|Arabia|sa_rashidun_dyn|SaRashd|Yemen Hijaz|632|661||False|False|False|True|True|True|True|Equinox 2020 Polities|
+Southwest Asia|Arabia|ye_ziyad_dyn|YeZiyad|Yemen Ziyad Dynasty|822|1037|Yemeni Coastal Plain|True|True|True|True|True|False|False|Equinox 2020 Polities|
+Southwest Asia|Levant|il_yisrael|IlYisrl|Yisrael|-1030|-722|Galilee|True|True|True|True|True|True|False|Equinox 2020 Polities|
+East Asia|South China|cn_yue_dyn|CnYueKg|Yue Kingdom|-510|-334||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Turkestan|kz_yueban|KzYueba|Yueban|350|450||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Europe|Southeastern Europe|sr_yugoslavia|sr_yugoslavia|Yugoslavia|1944|1992||False|False|False|False|False|False|False|Other Polities|
+Africa|East Africa|et_zagwe|EtZagwe|Zagwe|1137|1269||False|False|False|True|False|False|False|Equinox 2020 Polities|
+Africa|Sahel|dz_zayyanid_dyn|DzBrbZy|Zayyanid Berber Kingdom|1235|1509||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Africa|Maghreb|tn_zirid_dyn|TnZirid|Zirids|973|1148||False|False|False|False|False|False|False|Equinox 2020 Polities|
+Central and Northern Eurasia|Mongolia|mn_zungharian_emp|MnZungh|Zungharian Empire|1670|1757|Orkhon Valley|True|True|True|True|True|False|True|Equinox 2020 Polities|
+Africa|West Africa|ni_nri_k|ni_nri_k|Ọ̀ràézè Ǹrì|1043|1911||True|True|False|True|False|False|True|NEW West African Polities|

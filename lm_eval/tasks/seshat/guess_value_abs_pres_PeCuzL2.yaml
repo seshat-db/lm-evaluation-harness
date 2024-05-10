@@ -1,0 +1,17 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "/home/scrappy/csh/Hapi/data/seshat-benchmark/guess_value/test_PeCuzL2.parquet"
+"dataset_path": "parquet"
+"doc_to_choice":
+- "absent"
+- "present"
+- "inferred absent"
+- "inferred present"
+"doc_to_target": "A"
+"doc_to_text": "Q"
+"group":
+- "South America and Caribbean"
+- "Andes"
+"output_type": "multiple_choice"
+"task": "guess_value_abs_pres_Cuzco - Late Intermediate II"
+"test_split": "test"
