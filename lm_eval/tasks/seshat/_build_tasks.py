@@ -8,7 +8,7 @@ def parse_args():
     # parser.add_argument("--base_yaml_path", required=True)
     parser.add_argument("--save_prefix_path", default="seshat/")
     parser.add_argument("--gbd_testing", default= False)
-    parser.add_argument("--testing", default= True)
+    # parser.add_argument("--testing", default= True)
     return parser.parse_args()
 if __name__ == "__main__":
     args = parse_args()
@@ -26,12 +26,12 @@ if __name__ == "__main__":
         task_set = set()
         max_count = 0
         count = 0
-        if args.testing:
-            max_count = 20
+        # if args.testing:
+        #     max_count = 20
         for row in polity_reader:
-            count += 1
-            if count == max_count:
-                break
+            # count += 1
+            # if count == max_count:
+            #     break
             
             task_type = "guess_value_abs_pres"
             file_path = f"{base_data_path}/guess_value/test_{row[id_index]}.parquet"
