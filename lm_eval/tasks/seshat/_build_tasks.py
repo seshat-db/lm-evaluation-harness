@@ -25,6 +25,7 @@ if __name__ == "__main__":
         
         task_set = set()
         max_count = 0
+        count = 0
         if args.testing:
             max_count = 20
         for row in polity_reader:
