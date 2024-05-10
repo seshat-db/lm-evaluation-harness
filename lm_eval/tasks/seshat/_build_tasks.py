@@ -55,7 +55,7 @@ if __name__ == "__main__":
                 "group" : [row[macro_reg_index], row[id_index]]
                 }
             task_set.add(row[macro_reg_index])
-            task_set.add(row[reg_index])
+            # task_set.add(row[reg_index])
      
 
             save_path = args.save_prefix_path + f"{task_type}_{row[id_index]}.yaml"
