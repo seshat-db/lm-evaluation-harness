@@ -31,7 +31,7 @@ if __name__ == "__main__":
             if not os.path.exists(file_path) or "**" in row[id_index]:
                 continue
             guess_value_abs_pres_dict = {
-                "task" : f"guess_value_abs_pres_{row[name_index]}",
+                "task" : f"guess_value_abs_pres_{row[id_index]}",
                 "dataset_path": "parquet",
                 "dataset_kwargs" : {
                     "data_files" : {
