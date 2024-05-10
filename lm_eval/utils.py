@@ -241,6 +241,7 @@ def make_table(result_dict, column: str = "results"):
 
     values = []
 
+    print(result_dict)
     for k, dic in result_dict[column].items():
         version = result_dict["versions"].get(k, "N/A")
         n = str(result_dict["n-shot"][k])
