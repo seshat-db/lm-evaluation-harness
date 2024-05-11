@@ -50,7 +50,8 @@ if __name__ == "__main__":
                 "test_split": "test",
                 "doc_to_text": "Q",
                 "doc_to_target": "A",
-                "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
+                # "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
+                "doc_to_choice": ["A","B","C","D"],
                 # "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
                 "group" : [row[macro_reg_index], row[id_index]]
                 }
