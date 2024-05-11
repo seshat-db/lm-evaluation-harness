@@ -33,12 +33,12 @@ if __name__ == "__main__":
             # if count == max_count:
             #     break
             
-            task_type = "guess_value_abs_pres"
+            task_type = "guess_value"
             file_path = f"{base_data_path}/guess_value/test_{row[id_index]}.parquet"
             if not os.path.exists(file_path) or "**" in row[id_index]:
                 continue
             guess_value_abs_pres_dict = {
-                "task" : f"guess_value_abs_pres_{row[id_index]}",
+                "task" : f"{task_type}_{row[id_index]}",
                 "dataset_path": "parquet",
                 "dataset_kwargs" : {
                     "data_files" : {
@@ -59,7 +59,44 @@ if __name__ == "__main__":
             # task_set.add(row[reg_index])
      
 
-            save_path = args.save_prefix_path + f"{task_type}_{row[id_index]}.yaml"
+            save_path = args.save_prefix_path + f"{task_type}/{row[id_index]}.yaml"
+            # print(save_path)
+
+            with open(save_path, "w", encoding="utf-8") as yaml_file:
+                yaml.dump(
+                    guess_value_abs_pres_dict,
+                    yaml_file,
+                    allow_unicode=True,
+                    default_style='"',
+                )
+            
+            task_type = "extract_value"
+            file_path = f"{base_data_path}/extract_value/test_{row[id_index]}.parquet"
+            if not os.path.exists(file_path) or "**" in row[id_index]:
+                continue
+            guess_value_abs_pres_dict = {
+                "task" : f"{task_type}_{row[id_index]}",
+                "dataset_path": "parquet",
+                "dataset_kwargs" : {
+                    "data_files" : {
+                        # "test" : f"{base_data_path}/guess_value_abs_pres/test_{row[id_index]}.parquet"
+                        "test" : file_path
+                        }
+                    },
+                "output_type": "multiple_choice",
+                "test_split": "test",
+                "doc_to_text": "Q",
+                "doc_to_target": "A",
+                # "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
+                "doc_to_choice": ["A","B","C","D"],
+                # "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
+                "group" : [row[macro_reg_index], row[id_index]]
+                }
+            task_set.add(row[macro_reg_index])
+            # task_set.add(row[reg_index])
+     
+
+            save_path = args.save_prefix_path + f"{task_type}/{row[id_index]}.yaml"
             # print(save_path)
 
             with open(save_path, "w", encoding="utf-8") as yaml_file:
