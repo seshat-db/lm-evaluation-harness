@@ -46,6 +46,9 @@ if __name__ == "__main__":
                         "test" : file_path
                         }
                     },
+                "metric_list": [{"metric" : "acc",
+                                 "aggregation": "mean",
+                                 "higher_is_better": "true"}],
                 "output_type": "multiple_choice",
                 "test_split": "test",
                 "doc_to_text": "Q",
@@ -83,6 +86,9 @@ if __name__ == "__main__":
                         "test" : file_path
                         }
                     },
+                "metric_list": [{"metric" : "acc",
+                                 "aggregation": "mean",
+                                 "higher_is_better": "true"}],
                 "output_type": "multiple_choice",
                 "test_split": "test",
                 "doc_to_text": "Q",
