@@ -159,7 +159,7 @@ if __name__ == "__main__":
                 save_path = args.save_prefix_path + f"_seshat_{task}.yaml"
                 with open(save_path, "w", encoding="utf-8") as yaml_file:
                     yaml.dump(
-                        seshat_dict,
+                        task_dict,
                         yaml_file,
                         allow_unicode=True,
                         default_style='"',
