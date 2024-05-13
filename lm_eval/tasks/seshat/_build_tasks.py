@@ -151,7 +151,7 @@ if __name__ == "__main__":
                 
                 task_dict = {
                     "group" : f"seshat_{task}",
-                    "task" : task,
+                    "task" : [task],
                     "metric_list": [{"metric" : "acc",
                                     "aggregation": "mean",
                                     "higher_is_better": "true"}]
