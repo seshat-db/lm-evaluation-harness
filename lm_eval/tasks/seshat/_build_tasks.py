@@ -131,9 +131,11 @@ if __name__ == "__main__":
                 )
             seshat_dict = {
                 "group" : "seshat",
-                "task" : list(task_set)
+                "task" : list(task_set),
+                "metric_list": [{"metric" : "acc",
+                                 "aggregation": "mean",
+                                 "higher_is_better": "true"}]
                 }
-
             save_path = args.save_prefix_path + f"_seshat.yaml"
             # print(save_path)
 
