@@ -150,7 +150,7 @@ if __name__ == "__main__":
             for task in extra_tasks:
                 
                 task_dict = {
-                    "group" : f"seshat_{task}",
+                    "group" : f"_{task}",
                     "task" : [task],
                     "metric_list": [{"metric" : "acc",
                                     "aggregation": "mean",
