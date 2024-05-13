@@ -9,8 +9,6 @@
 - "inferred present"
 "doc_to_target": "A"
 "doc_to_text": "Q"
-"group":
-- "seshat_test"
 "output_type": "multiple_choice"
 "task": "seshat_test"
 "test_split": "test"
