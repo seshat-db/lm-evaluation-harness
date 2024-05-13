@@ -72,7 +72,7 @@ if __name__ == "__main__":
                 # "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
                 "doc_to_choice": ["A","B","C","D"],
                 # "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
-                "group" : [row[macro_reg_index], row[reg_index], row[id_index], year_basket]
+                "group" : [row[macro_reg_index], row[reg_index], row[id_index], year_basket, "guess_value"]
                 }
             task_set.add(row[macro_reg_index])
             # task_set.add(row[reg_index])
@@ -112,7 +112,7 @@ if __name__ == "__main__":
                 # "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
                 "doc_to_choice": ["A","B","C","D"],
                 # "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
-                "group" : [row[macro_reg_index], row[reg_index], row[id_index], year_basket]
+                "group" : [row[macro_reg_index], row[reg_index], row[id_index], year_basket, "extract value"]
                 # "group" : [row[macro_reg_index], row[id_index]]
                 }
             task_set.add(row[macro_reg_index])
