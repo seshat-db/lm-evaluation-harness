@@ -1,0 +1,24 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "/raid5pool/tank/hauser/tasks/seshat-benchmark/guess_value/test_MxClass.parquet"
+"dataset_path": "parquet"
+"doc_to_choice":
+- "A"
+- "B"
+- "C"
+- "D"
+"doc_to_target": "A"
+"doc_to_text": "Q"
+"group":
+- "North America"
+- "Mexico"
+- "MxClass"
+- "400.0 CE"
+- "guess_value"
+"metric_list":
+- "aggregation": "mean"
+  "higher_is_better": "true"
+  "metric": "acc"
+"output_type": "multiple_choice"
+"task": "guess_value_MxClass"
+"test_split": "test"

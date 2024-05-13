@@ -1,0 +1,24 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "/raid5pool/tank/hauser/tasks/seshat-benchmark/extract_value/test_IrSeljq.parquet"
+"dataset_path": "parquet"
+"doc_to_choice":
+- "A"
+- "B"
+- "C"
+- "D"
+"doc_to_target": "A"
+"doc_to_text": "Q"
+"group":
+- "Southwest Asia"
+- "Iran"
+- "IrSeljq"
+- "1600.0 CE"
+- "extract value"
+"metric_list":
+- "aggregation": "mean"
+  "higher_is_better": "true"
+  "metric": "acc"
+"output_type": "multiple_choice"
+"task": "extract_value_IrSeljq"
+"test_split": "test"

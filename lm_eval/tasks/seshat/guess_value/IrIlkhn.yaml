@@ -1,0 +1,24 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "/raid5pool/tank/hauser/tasks/seshat-benchmark/guess_value/test_IrIlkhn.parquet"
+"dataset_path": "parquet"
+"doc_to_choice":
+- "A"
+- "B"
+- "C"
+- "D"
+"doc_to_target": "A"
+"doc_to_text": "Q"
+"group":
+- "Southwest Asia"
+- "Iran"
+- "IrIlkhn"
+- "1900.0 CE"
+- "guess_value"
+"metric_list":
+- "aggregation": "mean"
+  "higher_is_better": "true"
+  "metric": "acc"
+"output_type": "multiple_choice"
+"task": "guess_value_IrIlkhn"
+"test_split": "test"
