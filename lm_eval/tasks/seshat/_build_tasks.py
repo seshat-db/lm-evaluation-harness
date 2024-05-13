@@ -44,7 +44,7 @@ if __name__ == "__main__":
             print(start_year)
             end_year = row[end_year_index]
             print(end_year)
-            mean_year = (int(start_year) + int(end_year) / 2
+            mean_year = int(start_year) + int(end_year) / 2
             year_basket = year_processing((mean_year // 100 ) * 100)
               
             task_type = "guess_value"
