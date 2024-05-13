@@ -41,6 +41,8 @@ if __name__ == "__main__":
             # if count == max_count:
             #     break
             start_year = row[start_year_index]
+            if start_year == "start_year":
+                continue
             print(start_year)
             end_year = row[end_year_index]
             print(end_year)
