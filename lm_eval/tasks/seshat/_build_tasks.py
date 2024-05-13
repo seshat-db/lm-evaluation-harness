@@ -40,7 +40,11 @@ if __name__ == "__main__":
             # count += 1
             # if count == max_count:
             #     break
-            mean_year = (row[start_year_index] + row[end_year_index]) / 2
+            start_year = row[start_year_index]
+            print(start_year)
+            end_year = row[end_year_index]
+            print(end_year)
+            mean_year = (int(start_year) + int(end_year) / 2
             year_basket = year_processing((mean_year // 100 ) * 100)
               
             task_type = "guess_value"
