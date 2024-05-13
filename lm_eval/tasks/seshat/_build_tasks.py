@@ -144,3 +144,23 @@ if __name__ == "__main__":
                     allow_unicode=True,
                     default_style='"',
                 )
+
+
+            extra_tasks = ["guess_value","extract_value"]
+            for task in extra_tasks:
+                
+                task_dict = {
+                    "group" : f"seshat_{task}",
+                    "task" : task,
+                    "metric_list": [{"metric" : "acc",
+                                    "aggregation": "mean",
+                                    "higher_is_better": "true"}]
+                    }
+                save_path = args.save_prefix_path + f"_seshat_{task}.yaml"
+                with open(save_path, "w", encoding="utf-8") as yaml_file:
+                    yaml.dump(
+                        seshat_dict,
+                        yaml_file,
+                        allow_unicode=True,
+                        default_style='"',
+                    )
