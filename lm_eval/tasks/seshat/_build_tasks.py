@@ -43,9 +43,7 @@ if __name__ == "__main__":
             start_year = row[start_year_index]
             if start_year == "start_year":
                 continue
-            print(start_year)
             end_year = row[end_year_index]
-            print(end_year)
             mean_year = int(start_year) + int(end_year) / 2
             year_basket = year_processing((mean_year // 100 ) * 100)
               
