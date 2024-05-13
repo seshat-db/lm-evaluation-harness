@@ -10,6 +10,12 @@ def parse_args():
     parser.add_argument("--gbd_testing", default= False)
     # parser.add_argument("--testing", default= True)
     return parser.parse_args()
+
+def year_processing(year):
+    if year < 0:
+        return f"{year * -1} BCE"
+    else:
+        return f"{year} CE"
 if __name__ == "__main__":
     args = parse_args()
     if args.gbd_testing:
@@ -22,6 +28,8 @@ if __name__ == "__main__":
         name_index = 4
         macro_reg_index = 0
         reg_index = 1
+        start_year_index = 5
+        end_year_index = 6
         
         task_set = set()
         max_count = 0
@@ -32,7 +40,9 @@ if __name__ == "__main__":
             # count += 1
             # if count == max_count:
             #     break
-            
+            mean_year = (row[start_year_index] + row[end_year_index]) / 2
+            year_basket = year_processing((mean_year // 100 ) * 100)
+              
             task_type = "guess_value"
             file_path = f"{base_data_path}/guess_value/test_{row[id_index]}.parquet"
             if not os.path.exists(file_path) or "**" in row[id_index]:
@@ -56,7 +66,7 @@ if __name__ == "__main__":
                 # "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
                 "doc_to_choice": ["A","B","C","D"],
                 # "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
-                "group" : [row[macro_reg_index], row[id_index]]
+                "group" : [row[macro_reg_index], row[reg_index], row[id_index], year_basket]
                 }
             task_set.add(row[macro_reg_index])
             # task_set.add(row[reg_index])
@@ -96,7 +106,8 @@ if __name__ == "__main__":
                 # "doc_to_choice": [ "absent", "present","inferred absent","inferred present"],
                 "doc_to_choice": ["A","B","C","D"],
                 # "group" : [row[macro_reg_index], row[reg_index], row[id_index]]
-                "group" : [row[macro_reg_index], row[id_index]]
+                "group" : [row[macro_reg_index], row[reg_index], row[id_index], year_basket]
+                # "group" : [row[macro_reg_index], row[id_index]]
                 }
             task_set.add(row[macro_reg_index])
             # task_set.add(row[reg_index])
